@@ -1,0 +1,92 @@
+﻿Table Names,item,size,category,sku,quantity,net_sales,gross_sales,cost,net_margin,gross_margin
+Entrees January 2024.csv,Baked Potato,,FOOD,,366,2,2,,,
+Entrees January 2024.csv,Crab Cakes,,BANQUETS,,5,90,90,,,
+Entrees January 2024.csv,French Fries,,FOOD,,39,79,79,39,40,40
+Entrees January 2024.csv,Jumbo Lump Crab Cakes,,FOOD,,61,2394.02,2440,989.42,1404.6,1450.58
+Entrees January 2024.csv,Jumbo Sea Scallops,,FOOD,,190,5264.1,5320,1816.4,3447.7,3503.6
+Entrees January 2024.csv,Linguine & Clams,,FOOD,,47,2026.48,2070,657.06,1369.42,1412.94
+Entrees January 2024.csv,New York Strip Steak,,FOOD,,170,5652.86,5789.5,1725.5,3927.36,4064
+Entrees January 2024.csv,Petite Filet,,FOOD,,213,6236.05,6456.5,1578.33,4657.72,4878.17
+Entrees January 2024.csv,Prime Pork Chop,,FOOD,,126,3909.79,4038,1362.06,2547.73,2675.94
+Entrees January 2024.csv,Side Applesauce,,FOOD,,19,0,0,,,
+Entrees January 2024.csv,Side Baked Pot,,FOOD,,17,51,51,,,
+Entrees January 2024.csv,Side Broccoli,,FOOD,,2,0,0,,,
+Entrees January 2024.csv,Side Caesar Salad,,FOOD,,10,0,0,,,
+Entrees January 2024.csv,Side Garden Salad,,FOOD,,10,0,0,12.3,0,0
+Entrees January 2024.csv,Side Spinach,,FOOD,,20,60,60,,,
+Entrees January 2024.csv,Side Veg,,FOOD,,133,0,0,,,
+Entrees January 2024.csv,Steak & Cake,,FOOD,,21,962.97,1008,299.67,663.3,708.33
+Entrees January 2024.csv,Steak Frites,,FOOD,,99,2908.53,2972,953.37,1955.16,2018.63
+Entrees January 2024.csv,Surf & Turf,,FOOD,,10,518.51,520,128.9,389.61,391.1
+Entrees January 2024.csv,Sweet Fries,,FOOD,,17,51,51,28.22,22.78,22.78
+Entrees January 2024.csv,Teriyaki Salmon,,FOOD,,207,5397.95,5592,1463.49,3934.46,4128.51
+Entrees January 2024.csv,Twin Lobster Tails,,FOOD,,3,129,129,,,
+Entrees January 2024.csv,Two Petite Filets,,FOOD,,4,220.62,232,,,
+Entrees January 2024.csv,Veal Baltimore,,FOOD,,3,92.61,93.5,,,
+Entrees January 2024.csv,Veal Scoglio,,FOOD,,69,2346.71,2437,883.2,1463.51,1553.8
+Entrees January 2024.csv,Total,,,,1861,38393.2,39430.5,11936.92,,
+Tavern January 2024.csv,Adult Pasta,,FOOD,,7,101,131,,,
+Tavern January 2024.csv,Baked Potato,,FOOD,,125,0,0,,,
+Tavern January 2024.csv,Chicken Marsala,,FOOD,,11,200,220,,,
+Tavern January 2024.csv,Chicken Parmigiana,,FOOD,,377,7208.76,7570.5,2073.5,5135.26,5497
+Tavern January 2024.csv,Chicken Pot Pie,,FOOD,,381,5897.01,6096,,,
+Tavern January 2024.csv,French Fries,,FOOD,,28,54,54,28,26,26
+Tavern January 2024.csv,Jaeger Schnitzel,,FOOD,,325,6936.08,7160.5,1088.75,5847.33,6071.75
+Tavern January 2024.csv,Meatloaf,,FOOD,,231,3656.95,3699,,,
+Tavern January 2024.csv,Sautéed Liver,,FOOD,,2,48,48,,,
+Tavern January 2024.csv,Shrimp Kabobs,,FOOD,,164,2841.69,2952,810.16,2031.53,2141.84
+Tavern January 2024.csv,Side Applesauce,,FOOD,,7,0,0,,,
+Tavern January 2024.csv,Side Baked Pot,,FOOD,,1,3,3,,,
+Tavern January 2024.csv,Side Broccoli,,FOOD,,4,0,0,,,
+Tavern January 2024.csv,Side Caesar Salad,,FOOD,,4,0,0,,,
+Tavern January 2024.csv,Side Garden Salad,,FOOD,,15,0,0,18.45,0,0
+Tavern January 2024.csv,Side Spinach,,FOOD,,6,18,18,,,
+Tavern January 2024.csv,Side Veg,,FOOD,,142,0,0,,,
+Tavern January 2024.csv,Sweet Fries,,FOOD,,11,33,33,18.26,14.74,14.74
+Tavern January 2024.csv,Vegetable Stir Fry,,FOOD,,344,5159.46,5506,,,
+Tavern January 2024.csv,Total,,,,2185,32156.95,33491,4037.12,,
+Sandwiches January 2024.csv,Adult Grilled Cheese,,FOOD,,11,123.5,123.5,,,
+Sandwiches January 2024.csv,BLT,,FOOD,,3,34.68,42,,,
+Sandwiches January 2024.csv,Baked Potato,,FOOD,,13,0,0,,,
+Sandwiches January 2024.csv,Bison Burger,,FOOD,,225,3461.27,3630.25,1154.25,2307.02,2476
+Sandwiches January 2024.csv,Buffalo Chicken Sandwich,,FOOD,,4,52.5,60,,,
+Sandwiches January 2024.csv,Chicken Burger,,FOOD,,38,536.53,631.25,190,346.53,441.25
+Sandwiches January 2024.csv,Chicken Cutlet Club,,FOOD,,251,3806.18,4028.5,1129.5,2676.68,2899
+Sandwiches January 2024.csv,Chicken Parmesan Sandwich,,FOOD,,9,119,127,,,
+Sandwiches January 2024.csv,Chicken Parmigiana,,FOOD,,26,0,0,143,0,0
+Sandwiches January 2024.csv,Chicken Salad Pita,,FOOD,,209,3042.96,3142,1045,1997.96,2097
+Sandwiches January 2024.csv,Crab Cake Sandwich,,FOOD,,190,3620.14,3806,1793.6,1826.54,2012.4
+Sandwiches January 2024.csv,French Dip,,FOOD,,378,7326.52,7571.5,2835,4491.52,4736.5
+Sandwiches January 2024.csv,French Fries,,FOOD,,405,690,690,405,285,285
+Sandwiches January 2024.csv,Honey Mustard Chicken Wrap,,FOOD,,149,2159.02,2238.5,658.58,1500.44,1579.92
+Sandwiches January 2024.csv,Loaded Fries,,FOOD,,4,15.5,15.5,,,
+Sandwiches January 2024.csv,Onion Petals,,FOOD,,28,84,84,57.4,26.6,26.6
+Sandwiches January 2024.csv,Side Applesauce,,FOOD,,1,0,0,,,
+Sandwiches January 2024.csv,Side Caesar Salad,,FOOD,,6,0,0,,,
+Sandwiches January 2024.csv,Side Garden Salad,,FOOD,,33,0,0,40.59,0,0
+Sandwiches January 2024.csv,Side Veg,,FOOD,,12,0,0,,,
+Sandwiches January 2024.csv,Sweet Fries,,FOOD,,281,637,637,466.46,170.54,170.54
+Sandwiches January 2024.csv,The Smokehouse Burger,,FOOD,,374,6529.72,6756.25,2165.46,4364.26,4590.79
+Sandwiches January 2024.csv,The Usual Burger,,FOOD,,503,7746.55,8096.75,2409.37,5337.18,5687.38
+Sandwiches January 2024.csv,Yellow Fin Tuna Sandwich,,FOOD,,90,1686.47,1713,588.6,1097.87,1124.4
+Sandwiches January 2024.csv,Total,,,,3243,41671.54,43393,15081.81,,
+Salads January 2024.csv,Caesar Salad,,FOOD,,262,4437.46,4695,,,
+Salads January 2024.csv,Chili,Cup,FOOD,,97,568.58,583.5,,,
+Salads January 2024.csv,Chili,Bowl,FOOD,,80,635.97,644,,,
+Salads January 2024.csv,Chimichurri Steak Salad,,FOOD,,134,2745.67,2822,909.86,1835.81,1912.14
+Salads January 2024.csv,Crab Cakes,,BANQUETS,,13,234,234,,,
+Salads January 2024.csv,Cranberry Quinoa Salad,,FOOD,,233,4056.11,4355,1025.2,3030.91,3329.8
+Salads January 2024.csv,Fajita Salad,,FOOD,,183,3722.07,3834,516.06,3206.01,3317.94
+Salads January 2024.csv,Fall Harvest Salad,,FOOD,,180,3566.78,3757,669.6,2897.18,3087.4
+Salads January 2024.csv,French Onion Soup,,FOOD,,611,4793.21,4889.5,,,
+Salads January 2024.csv,House Salad,,FOOD,,44,634.61,679,,,
+Salads January 2024.csv,New York Strip Steak,,FOOD,,18,324,324,182.7,141.3,141.3
+Salads January 2024.csv,Seafood Soup,Cup,FOOD,,65,505.86,520,,,
+Salads January 2024.csv,Seafood Soup,Bowl,FOOD,,35,336.25,350,,,
+Salads January 2024.csv,Side Caesar Salad,,FOOD,,125,1143.12,1212,,,
+Salads January 2024.csv,Side Garden Salad,,FOOD,,196,1515.93,1618,241.08,1274.85,1376.92
+Salads January 2024.csv,Soup Du Jour,Bowl,FOOD,,111,759.61,777,,,
+Salads January 2024.csv,Soup Du Jour,Cup,FOOD,,267,1276.93,1335,,,
+Salads January 2024.csv,Sub Caesar 1st,,FOOD,,5,3,3,,,
+Salads January 2024.csv,Sub House 1st,,FOOD,,11,0,0,,,
+Salads January 2024.csv,Total,,,,2670,31259.16,32632,3544.5,,

@@ -1,0 +1,196 @@
+﻿Table Names,type,item,size,quantity,gross_sales
+Tequila January 2024 Original.csv,tequila,1800,Mix,3,33
+Tequila January 2024 Original.csv,tequila,1800,DBL,4,40
+Tequila January 2024 Original.csv,tequila,Casamigos,RX,2,50
+Tequila January 2024 Original.csv,tequila,Casamigos,Mix,7,122
+Tequila January 2024 Original.csv,tequila,Casamigos,DBL,4,76
+Tequila January 2024 Original.csv,tequila,Cuervo,Mix,7,71.75
+Tequila January 2024 Original.csv,tequila,Cuervo,DBL,3,28.5
+Tequila January 2024 Original.csv,tequila,Espolon,DBL,1,13
+Tequila January 2024 Original.csv,tequila,Espolon,RX,1,18
+Tequila January 2024 Original.csv,tequila,Espolon,Mix,26,290
+Tequila January 2024 Original.csv,tequila,Espolon,Shot,1,9
+Tequila January 2024 Original.csv,tequila,Patron,Mix,25,417
+Tequila January 2024 Original.csv,tequila,Patron,Shot,7,91
+Tequila January 2024 Original.csv,tequila,Patron,RX,5,115
+Tequila January 2024 Original.csv,tequila,Patron,DBL,5,90
+Tequila January 2024 Original.csv,tequila,Sauza,Mix,3,24.5
+Tequila January 2024 Original.csv,tequila,Sauza,Mug Dbl,43,332.5
+Tequila January 2024 Original.csv,tequila,Sauza,Shot,3,19.5
+Tequila January 2024 Original.csv,tequila,Well Tequila,Mix,167,1261.75
+Tequila January 2024 Original.csv,tequila,Well Tequila,Mug Dbl,3,22.75
+Tequila January 2024 Original.csv,tequila,Well Tequila,DBL,2,15
+Tequila January 2024 Original.csv,tequila,Well Tequila,RX,1,10.5
+Tequila January 2024 Original.csv,tequila,Total,,323,3150.75
+Bourbon Januarry 2024 Original.csv,bourbon,Bulleit Bourbon,RX,23,368
+Bourbon Januarry 2024 Original.csv,bourbon,Bulleit Bourbon,Manhattan,10,190
+Bourbon Januarry 2024 Original.csv,bourbon,Bulleit Bourbon,Shot,2,15
+Bourbon Januarry 2024 Original.csv,bourbon,Bulleit Bourbon,Mix,1,10
+Bourbon Januarry 2024 Original.csv,bourbon,Bulleit Bourbon,DBL,1,12
+Bourbon Januarry 2024 Original.csv,bourbon,Jim Beam Black,Shot,20,162
+Bourbon Januarry 2024 Original.csv,bourbon,Jim Beam Black,RX,1,13
+Bourbon Januarry 2024 Original.csv,bourbon,Jim Beam Black,DBL,1,11
+Bourbon Januarry 2024 Original.csv,bourbon,Jim Beam Black,Manhattan,3,48
+Bourbon Januarry 2024 Original.csv,bourbon,Jim Beam Black,Mix,3,26.5
+Bourbon Januarry 2024 Original.csv,bourbon,Knob Creek,RX,15,225.5
+Bourbon Januarry 2024 Original.csv,bourbon,Knob Creek,DBL,2,26
+Bourbon Januarry 2024 Original.csv,bourbon,Knob Creek,Manhattan,8,136
+Bourbon Januarry 2024 Original.csv,bourbon,Knob Creek,Mix,3,33
+Bourbon Januarry 2024 Original.csv,bourbon,Makers Mark,RX,56,896
+Bourbon Januarry 2024 Original.csv,bourbon,Makers Mark,Manhattan,34,612
+Bourbon Januarry 2024 Original.csv,bourbon,Makers Mark,DBL,4,52
+Bourbon Januarry 2024 Original.csv,bourbon,Makers Mark,Mix,8,80
+Bourbon Januarry 2024 Original.csv,bourbon,Makers Mark,Mug Dbl,1,10
+Bourbon Januarry 2024 Original.csv,bourbon,Southern Comfort,DBL,1,8
+Bourbon Januarry 2024 Original.csv,bourbon,Southern Comfort,Mix,6,42
+Bourbon Januarry 2024 Original.csv,bourbon,Southern Comfort,Shot,1,6
+Bourbon Januarry 2024 Original.csv,bourbon,Southern Comfort,Manhattan,3,36
+Bourbon Januarry 2024 Original.csv,bourbon,Southern Comfort,RX,1,10
+Bourbon Januarry 2024 Original.csv,bourbon,Well Bourbon,Manhattan,24,216
+Bourbon Januarry 2024 Original.csv,bourbon,Well Bourbon,Mix,8,50
+Bourbon Januarry 2024 Original.csv,bourbon,Well Bourbon,RX,14,119.5
+Bourbon Januarry 2024 Original.csv,bourbon,Well Bourbon,DBL,4,30
+Bourbon Januarry 2024 Original.csv,bourbon,Woodford Reserve,Manhattan,5,110
+Bourbon Januarry 2024 Original.csv,bourbon,Woodford Reserve,Mix,1,12
+Bourbon Januarry 2024 Original.csv,bourbon,Woodford Reserve,DBL,2,28
+Bourbon Januarry 2024 Original.csv,bourbon,Woodford Reserve,RX,24,480
+Bourbon Januarry 2024 Original.csv,bourbon,Total,,290,4073.5
+Whiskey January 2024 Original.csv,whiskey,Bulleit Rye,Manhattan,7,126
+Whiskey January 2024 Original.csv,whiskey,Bulleit Rye,RX,12,192
+Whiskey January 2024 Original.csv,whiskey,Bulleit Rye,DBL,5,60
+Whiskey January 2024 Original.csv,whiskey,Bulleit Rye,Mug Dbl,1,10
+Whiskey January 2024 Original.csv,whiskey,Canadian Club,Manhattan,4,40
+Whiskey January 2024 Original.csv,whiskey,Canadian Club,RX,1,8.5
+Whiskey January 2024 Original.csv,whiskey,Crown Royal,Manhattan,13,208
+Whiskey January 2024 Original.csv,whiskey,Crown Royal,RX,2,30
+Whiskey January 2024 Original.csv,whiskey,Crown Royal,Mix,4,38
+Whiskey January 2024 Original.csv,whiskey,Crown Royal,DBL,4,48
+Whiskey January 2024 Original.csv,whiskey,Jack Daniels,Shot,13,91
+Whiskey January 2024 Original.csv,whiskey,Jack Daniels,Mix,38,304
+Whiskey January 2024 Original.csv,whiskey,Jack Daniels,DBL,31,263.5
+Whiskey January 2024 Original.csv,whiskey,Jack Daniels,RX,15,195
+Whiskey January 2024 Original.csv,whiskey,Jack Daniels,Mug Dbl,5,37.5
+Whiskey January 2024 Original.csv,whiskey,Jack Daniels,Manhattan,1,15
+Whiskey January 2024 Original.csv,whiskey,Jack Fire,DBL,4,40
+Whiskey January 2024 Original.csv,whiskey,Jack Fire,RX,2,28
+Whiskey January 2024 Original.csv,whiskey,Jack Fire,Shot,4,28
+Whiskey January 2024 Original.csv,whiskey,Jack Fire,Mix,5,40
+Whiskey January 2024 Original.csv,whiskey,Jameson,Mix,41,410
+Whiskey January 2024 Original.csv,whiskey,Jameson,DBL,12,144
+Whiskey January 2024 Original.csv,whiskey,Jameson,Shot,29,232
+Whiskey January 2024 Original.csv,whiskey,Jameson,RX,11,165
+Whiskey January 2024 Original.csv,whiskey,Jim Beam Black,Shot,15,120
+Whiskey January 2024 Original.csv,whiskey,Jim Beam Black,Mix,2,17
+Whiskey January 2024 Original.csv,whiskey,Jim Beam Black,Manhattan,2,32
+Whiskey January 2024 Original.csv,whiskey,Knob Rye,RX,1,18
+Whiskey January 2024 Original.csv,whiskey,Knob Rye,Manhattan,1,21
+Whiskey January 2024 Original.csv,whiskey,Old Grandad,DBL,3,25.5
+Whiskey January 2024 Original.csv,whiskey,Old Grandad,Mug Dbl,8,60
+Whiskey January 2024 Original.csv,whiskey,Old Grandad,Mix,5,37.5
+Whiskey January 2024 Original.csv,whiskey,Old Grandad,RX,2,22
+Whiskey January 2024 Original.csv,whiskey,Seagrams 7,Mix,8,60
+Whiskey January 2024 Original.csv,whiskey,Seagrams VO,Mix,11,77
+Whiskey January 2024 Original.csv,whiskey,Seagrams VO,Manhattan,11,126.5
+Whiskey January 2024 Original.csv,whiskey,Skrewball,DBL,2,19
+Whiskey January 2024 Original.csv,whiskey,Skrewball,Shot,6,45
+Whiskey January 2024 Original.csv,whiskey,Well Whiskey,Mix,19,119.75
+Whiskey January 2024 Original.csv,whiskey,Well Whiskey,Manhattan,7,63
+Whiskey January 2024 Original.csv,whiskey,Windsor,Mix,9,63
+Whiskey January 2024 Original.csv,whiskey,Total,,376,3679.75
+Gin January 2024 Original.csv,gin,Beefeater Gin,Martini,17,258
+Gin January 2024 Original.csv,gin,Beefeater Gin,Mix,5,42.5
+Gin January 2024 Original.csv,gin,Beefeater Gin,RX,1,13
+Gin January 2024 Original.csv,gin,Bombay Saphire,Martini,10,173
+Gin January 2024 Original.csv,gin,Bombay Saphire,Mix,27,270
+Gin January 2024 Original.csv,gin,Bombay Saphire,RX,5,75
+Gin January 2024 Original.csv,gin,Bombay Saphire,Mug Dbl,9,91
+Gin January 2024 Original.csv,gin,Tanqueray,Mix,56,537
+Gin January 2024 Original.csv,gin,Tanqueray,RX,1,16
+Gin January 2024 Original.csv,gin,Tanqueray,Mug Dbl,18,178
+Gin January 2024 Original.csv,gin,Tanqueray,Martini,8,134
+Gin January 2024 Original.csv,gin,Tanqueray,DBL,10,115
+Gin January 2024 Original.csv,gin,Well Gin,Mix,38,238.5
+Gin January 2024 Original.csv,gin,Well Gin,Martini,5,45
+Gin January 2024 Original.csv,gin,Well Gin,RX,1,10.5
+Gin January 2024 Original.csv,gin,Well Gin,Mug Dbl,3,21.75
+Gin January 2024 Original.csv,gin,Total,,214,2218.25
+Vodka January 2024 Original.csv,vodka,Absolut,DBL,11,99
+Vodka January 2024 Original.csv,vodka,Absolut,Mix,21,160.5
+Vodka January 2024 Original.csv,vodka,Absolut,Martini,23,322.5
+Vodka January 2024 Original.csv,vodka,Absolut,RX,1,10
+Vodka January 2024 Original.csv,vodka,Absolut,Shot,1,6
+Vodka January 2024 Original.csv,vodka,Absolut Citron,Martini,56,843
+Vodka January 2024 Original.csv,vodka,Absolut Citron,Mix,1,7.5
+Vodka January 2024 Original.csv,vodka,Cherry Vodka,Mix,1,7
+Vodka January 2024 Original.csv,vodka,Chocolate Vodka,Martini,2,20
+Vodka January 2024 Original.csv,vodka,Grape Vodka,DBL,5,41.25
+Vodka January 2024 Original.csv,vodka,Grey Goose,Mix,26,277
+Vodka January 2024 Original.csv,vodka,Grey Goose,Martini,66,1152.5
+Vodka January 2024 Original.csv,vodka,Grey Goose,RX,15,240
+Vodka January 2024 Original.csv,vodka,Grey Goose,DBL,3,39
+Vodka January 2024 Original.csv,vodka,Ketel One,Martini,64,1066
+Vodka January 2024 Original.csv,vodka,Ketel One,Mix,51,491.5
+Vodka January 2024 Original.csv,vodka,Ketel One,Mug Dbl,29,283.5
+Vodka January 2024 Original.csv,vodka,Ketel One,RX,3,45
+Vodka January 2024 Original.csv,vodka,Mango Vodka,DBL,1,8.25
+Vodka January 2024 Original.csv,vodka,Mango Vodka,Martini,3,30
+Vodka January 2024 Original.csv,vodka,Orange Vodka,Mix,28,196
+Vodka January 2024 Original.csv,vodka,Orange Vodka,Martini,6,66
+Vodka January 2024 Original.csv,vodka,Orange Vodka,DBL,1,8.25
+Vodka January 2024 Original.csv,vodka,Peach Schnapps,Mix,1,6
+Vodka January 2024 Original.csv,vodka,Peach Schnapps,Shot,1,5.5
+Vodka January 2024 Original.csv,vodka,Pomegranate Vodka,Martini,3,30
+Vodka January 2024 Original.csv,vodka,Raspberry Vodka,DBL,1,8.25
+Vodka January 2024 Original.csv,vodka,Raspberry Vodka,Martini,2,22
+Vodka January 2024 Original.csv,vodka,Raspberry Vodka,Mix,1,7
+Vodka January 2024 Original.csv,vodka,Tito's,Martini,158,2318
+Vodka January 2024 Original.csv,vodka,Tito's,Mix,317,2579
+Vodka January 2024 Original.csv,vodka,Tito's,DBL,54,514
+Vodka January 2024 Original.csv,vodka,Tito's,RX,23,278
+Vodka January 2024 Original.csv,vodka,Tito's,Mug Dbl,18,147
+Vodka January 2024 Original.csv,vodka,Tito's,Shot,2,13
+Vodka January 2024 Original.csv,vodka,Vanilla Vodka,Martini,122,1441.02
+Vodka January 2024 Original.csv,vodka,Vanilla Vodka,Mix,5,35
+Vodka January 2024 Original.csv,vodka,Vanilla Vodka,DBL,2,16.5
+Vodka January 2024 Original.csv,vodka,Vanilla Vodka,Mug Dbl,3,23
+Vodka January 2024 Original.csv,vodka,Vanilla Vodka,Shot,6,39
+Vodka January 2024 Original.csv,vodka,Well Vodka,Martini,76,749
+Vodka January 2024 Original.csv,vodka,Well Vodka,Mix,192,1263
+Vodka January 2024 Original.csv,vodka,Well Vodka,Shot,2,11
+Vodka January 2024 Original.csv,vodka,Well Vodka,DBL,41,312.5
+Vodka January 2024 Original.csv,vodka,Well Vodka,RX,18,163
+Vodka January 2024 Original.csv,vodka,Well Vodka,Mug Dbl,5,34.25
+Vodka January 2024 Original.csv,vodka,Total,,1471,15434.77
+Scotch January 2024 Original.csv,scotch,Bushmills,Mix,14,119
+Scotch January 2024 Original.csv,scotch,Bushmills,DBL,7,66.5
+Scotch January 2024 Original.csv,scotch,Glenlivet 12,RX,4,128
+Scotch January 2024 Original.csv,scotch,Glenlivet 12,DBL,6,120
+Scotch January 2024 Original.csv,scotch,JW Black,RX,1,19
+Scotch January 2024 Original.csv,scotch,JW Black,Mix,2,26
+Scotch January 2024 Original.csv,scotch,JW Blue,DBL,1,60
+Scotch January 2024 Original.csv,scotch,Macallan 12,RX,5,150
+Scotch January 2024 Original.csv,scotch,Macallan 12,DBL,3,54
+Scotch January 2024 Original.csv,scotch,Macallan 18,DBL,1,60
+Scotch January 2024 Original.csv,scotch,Macallan 18,RX,1,70
+Scotch January 2024 Original.csv,scotch,Well Scotch,Mix,12,99
+Scotch January 2024 Original.csv,scotch,Well Scotch,RX,11,165
+Scotch January 2024 Original.csv,scotch,Well Scotch,Mug Dbl,3,24.75
+Scotch January 2024 Original.csv,scotch,Total,,71,1161.25
+Rum January 2024 Original.csv,rum,Bacardi Rum,Mix,27,191
+Rum January 2024 Original.csv,rum,Bacardi Rum,DBL,5,40
+Rum January 2024 Original.csv,rum,Bacardi Rum,Mug Dbl,63,453
+Rum January 2024 Original.csv,rum,Captain Morgan,Mix,75,506.25
+Rum January 2024 Original.csv,rum,Captain Morgan,DBL,25,200
+Rum January 2024 Original.csv,rum,Captain Morgan,Mug Dbl,4,27
+Rum January 2024 Original.csv,rum,Captain Morgan,Shot,1,6
+Rum January 2024 Original.csv,rum,Captain Morgan,RX,4,40
+Rum January 2024 Original.csv,rum,Coconut Rum,Mix,77,539
+Rum January 2024 Original.csv,rum,Coconut Rum,DBL,2,16.5
+Rum January 2024 Original.csv,rum,Coconut Rum,Mug Dbl,1,7
+Rum January 2024 Original.csv,rum,Coconut Rum,RX,1,10
+Rum January 2024 Original.csv,rum,Meyers Dark,Mix,5,34.5
+Rum January 2024 Original.csv,rum,Meyers Dark,DBL,1,7.5
+Rum January 2024 Original.csv,rum,Well Rum,Mix,28,183
+Rum January 2024 Original.csv,rum,Well Rum,Manhattan,1,9
+Rum January 2024 Original.csv,rum,Well Rum,DBL,1,7.5
+Rum January 2024 Original.csv,rum,Total,,321,2277.25

@@ -1,0 +1,165 @@
+﻿Table Names,type,item,size,quantity,net_sales
+Tequila April 2023.csv,tequila,1800,Shot,5,37.5
+Tequila April 2023.csv,tequila,1800,Mix,3,28.64
+Tequila April 2023.csv,tequila,Casamigos,Mix,18,303
+Tequila April 2023.csv,tequila,Casamigos,RX,1,23
+Tequila April 2023.csv,tequila,Casamigos,Shot,20,244.05
+Tequila April 2023.csv,tequila,Cuervo,Mix,14,138.5
+Tequila April 2023.csv,tequila,Espolon,Mix,33,328.96
+Tequila April 2023.csv,tequila,Espolon,Shot,3,27
+Tequila April 2023.csv,tequila,Patron,Mix,32,518.16
+Tequila April 2023.csv,tequila,Patron,DBL,6,108
+Tequila April 2023.csv,tequila,Patron,Shot,5,49.4
+Tequila April 2023.csv,tequila,Patron,RX,2,41.75
+Tequila April 2023.csv,tequila,Sauza,Mix,34,238
+Tequila April 2023.csv,tequila,Well Tequila,Mix,182,1216.48
+Tequila April 2023.csv,tequila,Well Tequila,DBL,2,17
+Tequila April 2023.csv,tequila,Well Tequila,Shot,2,10.2
+Tequila April 2023.csv,tequila,Well Tequila,RX,2,21
+Tequila April 2023.csv,tequila,Total,,364,3350.64
+Vodka April 2023.csv,vodka,Absolut,DBL,11,100
+Vodka April 2023.csv,vodka,Absolut,Martini,11,157.5
+Vodka April 2023.csv,vodka,Absolut,Mix,23,167.5
+Vodka April 2023.csv,vodka,Absolut Citron,Martini,93,1211.09
+Vodka April 2023.csv,vodka,Absolut Citron,Mix,3,22.5
+Vodka April 2023.csv,vodka,Cherry Vodka,DBL,3,24.75
+Vodka April 2023.csv,vodka,Cherry Vodka,Mix,4,21
+Vodka April 2023.csv,vodka,Chocolate Vodka,Martini,2,19
+Vodka April 2023.csv,vodka,Grape Vodka,Mix,6,42
+Vodka April 2023.csv,vodka,Grey Goose,Martini,71,1079.98
+Vodka April 2023.csv,vodka,Grey Goose,RX,19,271.5
+Vodka April 2023.csv,vodka,Grey Goose,DBL,4,50
+Vodka April 2023.csv,vodka,Grey Goose,Mix,34,352.28
+Vodka April 2023.csv,vodka,Ketel One,Mix,59,546.71
+Vodka April 2023.csv,vodka,Ketel One,Martini,62,932.43
+Vodka April 2023.csv,vodka,Ketel One,RX,5,69.5
+Vodka April 2023.csv,vodka,Ketel One,DBL,8,92
+Vodka April 2023.csv,vodka,Mango Vodka,Martini,2,21
+Vodka April 2023.csv,vodka,Mango Vodka,Mix,2,14
+Vodka April 2023.csv,vodka,Orange Vodka,RX,2,18
+Vodka April 2023.csv,vodka,Orange Vodka,Mix,14,88
+Vodka April 2023.csv,vodka,Orange Vodka,Shot,2,13
+Vodka April 2023.csv,vodka,Orange Vodka,Martini,5,55
+Vodka April 2023.csv,vodka,Orange Vodka,DBL,1,8.25
+Vodka April 2023.csv,vodka,Peach Schnapps,Shot,4,22
+Vodka April 2023.csv,vodka,Peach Schnapps,Mix,7,41
+Vodka April 2023.csv,vodka,Pomegranate Vodka,Martini,3,29
+Vodka April 2023.csv,vodka,Raspberry Vodka,Mix,3,20
+Vodka April 2023.csv,vodka,Raspberry Vodka,DBL,1,8.25
+Vodka April 2023.csv,vodka,Raspberry Vodka,Martini,2,22
+Vodka April 2023.csv,vodka,Sweet Tea Vodka,Mix,1,6.5
+Vodka April 2023.csv,vodka,Tito's,Mix,357,2811.59
+Vodka April 2023.csv,vodka,Tito's,Martini,154,2037.13
+Vodka April 2023.csv,vodka,Tito's,DBL,87,818.42
+Vodka April 2023.csv,vodka,Tito's,RX,34,357.76
+Vodka April 2023.csv,vodka,Tito's,Shot,6,36
+Vodka April 2023.csv,vodka,Vanilla Vodka,Martini,125,1107.97
+Vodka April 2023.csv,vodka,Vanilla Vodka,Mix,8,28
+Vodka April 2023.csv,vodka,Vanilla Vodka,DBL,2,16.5
+Vodka April 2023.csv,vodka,Vanilla Vodka,RX,1,9
+Vodka April 2023.csv,vodka,Well Vodka,Martini,66,596.99
+Vodka April 2023.csv,vodka,Well Vodka,Mix,350,2013.7
+Vodka April 2023.csv,vodka,Well Vodka,Shot,9,49.5
+Vodka April 2023.csv,vodka,Well Vodka,DBL,26,198
+Vodka April 2023.csv,vodka,Well Vodka,RX,17,147.5
+Vodka April 2023.csv,vodka,Total,,1709,15753.8
+Gin April 2023.csv,gin,Beefeater Gin,Martini,8,111
+Gin April 2023.csv,gin,Beefeater Gin,RX,2,24
+Gin April 2023.csv,gin,Beefeater Gin,Mix,10,80
+Gin April 2023.csv,gin,Bombay Saphire,Mix,27,236.02
+Gin April 2023.csv,gin,Bombay Saphire,RX,2,28
+Gin April 2023.csv,gin,Bombay Saphire,Shot,1,8
+Gin April 2023.csv,gin,Bombay Saphire,Martini,4,59
+Gin April 2023.csv,gin,Tanqueray,DBL,13,140
+Gin April 2023.csv,gin,Tanqueray,Mix,85,790.43
+Gin April 2023.csv,gin,Tanqueray,Martini,18,275
+Gin April 2023.csv,gin,Well Gin,Martini,8,56.91
+Gin April 2023.csv,gin,Well Gin,Mix,41,225.17
+Gin April 2023.csv,gin,Well Gin,DBL,1,7.5
+Gin April 2023.csv,gin,Well Gin,RX,3,19.7
+Gin April 2023.csv,gin,Total,,223,2060.73
+Scotch April 2023.csv,scotch,Bushmills,Shot,1,7
+Scotch April 2023.csv,scotch,Bushmills,RX,1,11
+Scotch April 2023.csv,scotch,Glenlivet 12,RX,2,63
+Scotch April 2023.csv,scotch,Glenlivet 12,DBL,1,20
+Scotch April 2023.csv,scotch,JW Black,RX,12,218
+Scotch April 2023.csv,scotch,JW Black,Mix,1,12
+Scotch April 2023.csv,scotch,JW Black,DBL,2,32
+Scotch April 2023.csv,scotch,Macallan 12,RX,2,56.39
+Scotch April 2023.csv,scotch,Well Scotch,RX,17,201
+Scotch April 2023.csv,scotch,Well Scotch,Mix,2,14
+Scotch April 2023.csv,scotch,Well Scotch,Manhattan,4,58
+Scotch April 2023.csv,scotch,Total,,45,692.39
+Whiskey April 2023.csv,whiskey,Bulleit Rye,Manhattan,6,105.5
+Whiskey April 2023.csv,whiskey,Bulleit Rye,RX,7,110
+Whiskey April 2023.csv,whiskey,Canadian Club,Manhattan,1,10
+Whiskey April 2023.csv,whiskey,Canadian Club,RX,3,24.5
+Whiskey April 2023.csv,whiskey,Canadian Club,Mix,1,5.36
+Whiskey April 2023.csv,whiskey,Crown Royal,DBL,10,119
+Whiskey April 2023.csv,whiskey,Crown Royal,RX,10,149
+Whiskey April 2023.csv,whiskey,Crown Royal,Shot,10,80
+Whiskey April 2023.csv,whiskey,Crown Royal,Mix,7,59.83
+Whiskey April 2023.csv,whiskey,Crown Royal,Manhattan,5,77.52
+Whiskey April 2023.csv,whiskey,Jack Daniels,Mix,86,604.66
+Whiskey April 2023.csv,whiskey,Jack Daniels,DBL,34,217.86
+Whiskey April 2023.csv,whiskey,Jack Daniels,Shot,28,6.5
+Whiskey April 2023.csv,whiskey,Jack Daniels,RX,11,119
+Whiskey April 2023.csv,whiskey,Jack Daniels,Manhattan,3,39
+Whiskey April 2023.csv,whiskey,Jack Fire,Mix,1,8
+Whiskey April 2023.csv,whiskey,Jack Fire,Shot,1,7
+Whiskey April 2023.csv,whiskey,Jameson,Shot,57,293
+Whiskey April 2023.csv,whiskey,Jameson,DBL,18,209.58
+Whiskey April 2023.csv,whiskey,Jameson,RX,13,193
+Whiskey April 2023.csv,whiskey,Jameson,Mix,12,120
+Whiskey April 2023.csv,whiskey,Jameson,Manhattan,1,16
+Whiskey April 2023.csv,whiskey,Jim Beam Black,Mix,5,42.5
+Whiskey April 2023.csv,whiskey,Jim Beam Black,RX,2,24
+Whiskey April 2023.csv,whiskey,Knob Rye,RX,1,18
+Whiskey April 2023.csv,whiskey,Knob Rye,Manhattan,1,21
+Whiskey April 2023.csv,whiskey,Old Grandad,Mix,18,135
+Whiskey April 2023.csv,whiskey,Seagrams 7,Mix,17,119
+Whiskey April 2023.csv,whiskey,Seagrams 7,DBL,2,16
+Whiskey April 2023.csv,whiskey,Seagrams VO,Manhattan,9,93.35
+Whiskey April 2023.csv,whiskey,Seagrams VO,Mix,8,52
+Whiskey April 2023.csv,whiskey,Seagrams VO,DBL,1,7.5
+Whiskey April 2023.csv,whiskey,Well Whiskey,Mix,12,64.51
+Whiskey April 2023.csv,whiskey,Well Whiskey,DBL,1,7.5
+Whiskey April 2023.csv,whiskey,Well Whiskey,RX,4,35
+Whiskey April 2023.csv,whiskey,Well Whiskey,Manhattan,4,34.57
+Whiskey April 2023.csv,whiskey,Total,,410,3244.24
+Bourbon April 2023.csv,bourbon,Bulleit Bourbon,DBL,11,132
+Bourbon April 2023.csv,bourbon,Bulleit Bourbon,RX,28,447
+Bourbon April 2023.csv,bourbon,Bulleit Bourbon,Manhattan,8,152
+Bourbon April 2023.csv,bourbon,Bulleit Bourbon,Mix,1,10
+Bourbon April 2023.csv,bourbon,Jim Beam Black,Shot,12,32
+Bourbon April 2023.csv,bourbon,Jim Beam Black,Mix,6,52
+Bourbon April 2023.csv,bourbon,Jim Beam Black,Manhattan,2,29
+Bourbon April 2023.csv,bourbon,Jim Beam Black,RX,3,36
+Bourbon April 2023.csv,bourbon,Knob Creek,RX,7,104
+Bourbon April 2023.csv,bourbon,Knob Creek,Mix,9,97
+Bourbon April 2023.csv,bourbon,Knob Creek,Manhattan,4,67
+Bourbon April 2023.csv,bourbon,Knob Creek,Shot,1,8
+Bourbon April 2023.csv,bourbon,Makers Mark,RX,38,555.87
+Bourbon April 2023.csv,bourbon,Makers Mark,DBL,4,48
+Bourbon April 2023.csv,bourbon,Makers Mark,Mix,24,241
+Bourbon April 2023.csv,bourbon,Makers Mark,Manhattan,16,272.15
+Bourbon April 2023.csv,bourbon,Southern Comfort,RX,3,30
+Bourbon April 2023.csv,bourbon,Southern Comfort,Manhattan,3,35
+Bourbon April 2023.csv,bourbon,Well Bourbon,RX,21,168.23
+Bourbon April 2023.csv,bourbon,Well Bourbon,Manhattan,10,83.92
+Bourbon April 2023.csv,bourbon,Well Bourbon,Mix,6,37.5
+Bourbon April 2023.csv,bourbon,Woodford Reserve,Manhattan,6,132
+Bourbon April 2023.csv,bourbon,Woodford Reserve,RX,35,700
+Bourbon April 2023.csv,bourbon,Woodford Reserve,DBL,10,140
+Bourbon April 2023.csv,bourbon,Woodford Reserve,Mix,1,11
+Bourbon April 2023.csv,bourbon,Total,,269,3620.67
+Rum April 2023.csv,rum,Bacardi Rum,Mix,84,590.08
+Rum April 2023.csv,rum,Bacardi Rum,RX,4,33
+Rum April 2023.csv,rum,Bacardi Rum,DBL,6,48
+Rum April 2023.csv,rum,Captain Morgan,Mix,89,548.01
+Rum April 2023.csv,rum,Captain Morgan,DBL,37,269.39
+Rum April 2023.csv,rum,Coconut Rum,Mix,127,375.98
+Rum April 2023.csv,rum,Coconut Rum,DBL,5,41.25
+Rum April 2023.csv,rum,Meyers Dark,Mix,3,19.5
+Rum April 2023.csv,rum,Well Rum,Mix,43,272.75
+Rum April 2023.csv,rum,Total,,398,2197.96

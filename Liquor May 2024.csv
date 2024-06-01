@@ -1,0 +1,182 @@
+﻿Table Names,type,item,size,quantity,net_sales
+Scotch May 2024.csv,scotch,Bushmills,DBL,4,37
+Scotch May 2024.csv,scotch,Bushmills,Shot,3,21
+Scotch May 2024.csv,scotch,Bushmills,RX,2,22
+Scotch May 2024.csv,scotch,Glenlivet 12,DBL,2,40
+Scotch May 2024.csv,scotch,Glenlivet 12,RX,2,62.22
+Scotch May 2024.csv,scotch,JW Black,RX,8,151
+Scotch May 2024.csv,scotch,Macallan 12,Shot,1,13
+Scotch May 2024.csv,scotch,Macallan 12,DBL,1,13.81
+Scotch May 2024.csv,scotch,Macallan 18,DBL,1,60
+Scotch May 2024.csv,scotch,Well Scotch,RX,12,174.92
+Scotch May 2024.csv,scotch,Well Scotch,Manhattan,2,31
+Scotch May 2024.csv,scotch,Well Scotch,Mix,3,22.91
+Scotch May 2024.csv,scotch,Total,,41,648.86
+Bourbon May 2024.csv,bourbon,Bulleit Bourbon,RX,29,479.4
+Bourbon May 2024.csv,bourbon,Bulleit Bourbon,Mix,6,65
+Bourbon May 2024.csv,bourbon,Bulleit Bourbon,Manhattan,14,166.08
+Bourbon May 2024.csv,bourbon,Bulleit Bourbon,DBL,8,92
+Bourbon May 2024.csv,bourbon,Jim Beam Black,Shot,23,0
+Bourbon May 2024.csv,bourbon,Jim Beam Black,DBL,2,22
+Bourbon May 2024.csv,bourbon,Jim Beam Black,Mix,5,38.68
+Bourbon May 2024.csv,bourbon,Jim Beam Black,Manhattan,3,40.19
+Bourbon May 2024.csv,bourbon,Jim Beam Black,RX,2,23.42
+Bourbon May 2024.csv,bourbon,Knob Creek,RX,15,224
+Bourbon May 2024.csv,bourbon,Knob Creek,Manhattan,4,63.59
+Bourbon May 2024.csv,bourbon,Makers Mark,RX,51,805.31
+Bourbon May 2024.csv,bourbon,Makers Mark,Manhattan,17,265.46
+Bourbon May 2024.csv,bourbon,Makers Mark,Mix,11,76.6
+Bourbon May 2024.csv,bourbon,Makers Mark,DBL,4,51
+Bourbon May 2024.csv,bourbon,Makers Mark,Mug Dbl,33,346.3
+Bourbon May 2024.csv,bourbon,Southern Comfort,Mix,1,6
+Bourbon May 2024.csv,bourbon,Well Bourbon,Manhattan,30,253.4
+Bourbon May 2024.csv,bourbon,Well Bourbon,RX,32,244.39
+Bourbon May 2024.csv,bourbon,Well Bourbon,Mix,12,65.5
+Bourbon May 2024.csv,bourbon,Well Bourbon,DBL,1,6.5
+Bourbon May 2024.csv,bourbon,Well Brandy,Mix,2,10.24
+Bourbon May 2024.csv,bourbon,Well Brandy,RX,2,14
+Bourbon May 2024.csv,bourbon,Woodford Reserve,RX,37,741.04
+Bourbon May 2024.csv,bourbon,Woodford Reserve,DBL,10,140.34
+Bourbon May 2024.csv,bourbon,Woodford Reserve,Mix,8,104
+Bourbon May 2024.csv,bourbon,Woodford Reserve,Shot,2,20
+Bourbon May 2024.csv,bourbon,Woodford Reserve,Manhattan,14,308
+Bourbon May 2024.csv,bourbon,Total,,378,4672.44
+Vodka May 2024.csv,vodka,Absolut,Martini,15,208.74
+Vodka May 2024.csv,vodka,Absolut,Mix,21,166.41
+Vodka May 2024.csv,vodka,Absolut,DBL,4,36
+Vodka May 2024.csv,vodka,Absolut,RX,1,12
+Vodka May 2024.csv,vodka,Absolut Citron,Martini,52,743.28
+Vodka May 2024.csv,vodka,Absolut Citron,Mix,2,16
+Vodka May 2024.csv,vodka,Absolut Citron,Shot,7,49
+Vodka May 2024.csv,vodka,Absolut Citron,Mug Dbl,11,88
+Vodka May 2024.csv,vodka,Cherry Vodka,Mix,1,7
+Vodka May 2024.csv,vodka,Cherry Vodka,DBL,2,10.8
+Vodka May 2024.csv,vodka,Chocolate Vodka,Martini,4,36
+Vodka May 2024.csv,vodka,Grey Goose,Martini,94,1666.46
+Vodka May 2024.csv,vodka,Grey Goose,Mix,35,351.74
+Vodka May 2024.csv,vodka,Grey Goose,RX,14,217
+Vodka May 2024.csv,vodka,Grey Goose,Shot,2,20
+Vodka May 2024.csv,vodka,Ketel One,Martini,67,1070.46
+Vodka May 2024.csv,vodka,Ketel One,Mix,58,544
+Vodka May 2024.csv,vodka,Ketel One,RX,10,130.08
+Vodka May 2024.csv,vodka,Ketel One,DBL,13,141.5
+Vodka May 2024.csv,vodka,Ketel One,Mug Dbl,16,143.86
+Vodka May 2024.csv,vodka,Ketel One,Shot,1,9
+Vodka May 2024.csv,vodka,Mango Vodka,Mix,6,44
+Vodka May 2024.csv,vodka,Mango Vodka,Martini,2,20
+Vodka May 2024.csv,vodka,Orange Vodka,DBL,4,33
+Vodka May 2024.csv,vodka,Orange Vodka,Martini,5,55
+Vodka May 2024.csv,vodka,Orange Vodka,Mix,10,70
+Vodka May 2024.csv,vodka,Orange Vodka,RX,2,18
+Vodka May 2024.csv,vodka,Peach Schnapps,Mix,1,6
+Vodka May 2024.csv,vodka,Pomegranate Vodka,Martini,4,10.2
+Vodka May 2024.csv,vodka,Raspberry Vodka,Martini,10,95.16
+Vodka May 2024.csv,vodka,Raspberry Vodka,Mix,7,48
+Vodka May 2024.csv,vodka,Tito's,RX,24,285
+Vodka May 2024.csv,vodka,Tito's,Mix,275,2153.89
+Vodka May 2024.csv,vodka,Tito's,Martini,141,1941.44
+Vodka May 2024.csv,vodka,Tito's,Mug Dbl,28,222
+Vodka May 2024.csv,vodka,Tito's,DBL,34,316
+Vodka May 2024.csv,vodka,Tito's,Shot,3,21
+Vodka May 2024.csv,vodka,Vanilla Vodka,Martini,131,1289.07
+Vodka May 2024.csv,vodka,Vanilla Vodka,Mix,3,21
+Vodka May 2024.csv,vodka,Vanilla Vodka,Manhattan,1,11
+Vodka May 2024.csv,vodka,Vanilla Vodka,Mug Dbl,14,93.63
+Vodka May 2024.csv,vodka,Vanilla Vodka,RX,1,10
+Vodka May 2024.csv,vodka,Well Vodka,Mix,224,1243.52
+Vodka May 2024.csv,vodka,Well Vodka,RX,8,69.7
+Vodka May 2024.csv,vodka,Well Vodka,Martini,94,829.67
+Vodka May 2024.csv,vodka,Well Vodka,Mug Dbl,13,85.07
+Vodka May 2024.csv,vodka,Well Vodka,DBL,26,184.94
+Vodka May 2024.csv,vodka,Total,,1501,14843.62
+Tequila May 2024.csv,tequila,1800,Mix,7,77
+Tequila May 2024.csv,tequila,1800,DBL,2,20
+Tequila May 2024.csv,tequila,Casamigos,Mix,6,102
+Tequila May 2024.csv,tequila,Casamigos,DBL,11,210.07
+Tequila May 2024.csv,tequila,Cuervo,Mix,21,209.02
+Tequila May 2024.csv,tequila,Cuervo,Shot,6,45
+Tequila May 2024.csv,tequila,Cuervo,RX,2,28
+Tequila May 2024.csv,tequila,Espolon,Mug Dbl,1,10
+Tequila May 2024.csv,tequila,Espolon,Mix,22,232
+Tequila May 2024.csv,tequila,Espolon,Shot,6,54
+Tequila May 2024.csv,tequila,Espolon,DBL,3,37
+Tequila May 2024.csv,tequila,Espolon,RX,1,18
+Tequila May 2024.csv,tequila,Patron,RX,2,50
+Tequila May 2024.csv,tequila,Patron,Shot,5,68
+Tequila May 2024.csv,tequila,Patron,Mix,24,414.35
+Tequila May 2024.csv,tequila,Sauza,Mug Dbl,49,365.21
+Tequila May 2024.csv,tequila,Sauza,Mix,7,61.5
+Tequila May 2024.csv,tequila,Well Tequila,Mix,216,1298.89
+Tequila May 2024.csv,tequila,Well Tequila,Shot,7,33
+Tequila May 2024.csv,tequila,Well Tequila,Mug Dbl,6,47.5
+Tequila May 2024.csv,tequila,Well Tequila,DBL,8,70
+Tequila May 2024.csv,tequila,Total,,412,3450.54
+Whiskey May 2024.csv,whiskey,Bulleit Rye,Manhattan,7,140
+Whiskey May 2024.csv,whiskey,Bulleit Rye,RX,7,118
+Whiskey May 2024.csv,whiskey,Canadian Club,Mix,4,25
+Whiskey May 2024.csv,whiskey,Canadian Club,RX,2,13.64
+Whiskey May 2024.csv,whiskey,Crown Royal,Mix,13,121.59
+Whiskey May 2024.csv,whiskey,Crown Royal,Manhattan,3,51
+Whiskey May 2024.csv,whiskey,Crown Royal,RX,3,48
+Whiskey May 2024.csv,whiskey,Crown Royal,DBL,1,12
+Whiskey May 2024.csv,whiskey,Jack Daniels,Mix,54,408.47
+Whiskey May 2024.csv,whiskey,Jack Daniels,DBL,25,72
+Whiskey May 2024.csv,whiskey,Jack Daniels,Shot,1,7
+Whiskey May 2024.csv,whiskey,Jack Daniels,Mug Dbl,19,152
+Whiskey May 2024.csv,whiskey,Jack Daniels,RX,5,64.57
+Whiskey May 2024.csv,whiskey,Jack Daniels,Manhattan,2,32
+Whiskey May 2024.csv,whiskey,Jack Fire,RX,1,14
+Whiskey May 2024.csv,whiskey,Jameson,DBL,12,75.26
+Whiskey May 2024.csv,whiskey,Jameson,RX,16,238
+Whiskey May 2024.csv,whiskey,Jameson,Mix,26,267.98
+Whiskey May 2024.csv,whiskey,Jameson,Shot,22,115
+Whiskey May 2024.csv,whiskey,Jim Beam Black,Manhattan,4,63
+Whiskey May 2024.csv,whiskey,Jim Beam Black,Shot,13,8
+Whiskey May 2024.csv,whiskey,Jim Beam Black,Mix,2,17
+Whiskey May 2024.csv,whiskey,Knob Rye,Manhattan,2,42
+Whiskey May 2024.csv,whiskey,Knob Rye,RX,1,16.48
+Whiskey May 2024.csv,whiskey,Old Grandad,RX,3,33
+Whiskey May 2024.csv,whiskey,Seagrams 7,Mix,17,112.78
+Whiskey May 2024.csv,whiskey,Seagrams 7,DBL,2,17
+Whiskey May 2024.csv,whiskey,Seagrams VO,Mix,5,32.93
+Whiskey May 2024.csv,whiskey,Seagrams VO,Manhattan,11,122.5
+Whiskey May 2024.csv,whiskey,Seagrams VO,RX,3,29.5
+Whiskey May 2024.csv,whiskey,Skrewball,Shot,2,15
+Whiskey May 2024.csv,whiskey,Well Whiskey,Mix,14,75.25
+Whiskey May 2024.csv,whiskey,Well Whiskey,Manhattan,5,43.11
+Whiskey May 2024.csv,whiskey,Well Whiskey,DBL,1,7.5
+Whiskey May 2024.csv,whiskey,Well Whiskey,RX,2,17
+Whiskey May 2024.csv,whiskey,Windsor,RX,1,10.5
+Whiskey May 2024.csv,whiskey,Total,,311,2638.06
+Rum May 2024.csv,rum,Bacardi Rum,Mix,44,309.46
+Rum May 2024.csv,rum,Bacardi Rum,Mug Dbl,59,403.95
+Rum May 2024.csv,rum,Bacardi Rum,DBL,3,22.77
+Rum May 2024.csv,rum,Captain Morgan,Mug Dbl,13,86.6
+Rum May 2024.csv,rum,Captain Morgan,Mix,63,382.16
+Rum May 2024.csv,rum,Captain Morgan,DBL,15,117
+Rum May 2024.csv,rum,Coconut Rum,Mix,133,339.61
+Rum May 2024.csv,rum,Coconut Rum,DBL,5,37.72
+Rum May 2024.csv,rum,Coconut Rum,Shot,1,5
+Rum May 2024.csv,rum,Meyers Dark,Mix,1,6.5
+Rum May 2024.csv,rum,Well Rum,Mix,55,346.5
+Rum May 2024.csv,rum,Well Rum,DBL,4,26.29
+Rum May 2024.csv,rum,Total,,396,2083.56
+Gin May 2024.csv,gin,Beefeater Gin,DBL,1,9.42
+Gin May 2024.csv,gin,Beefeater Gin,Mix,20,166.89
+Gin May 2024.csv,gin,Beefeater Gin,Martini,10,157.51
+Gin May 2024.csv,gin,Beefeater Gin,Shot,3,24
+Gin May 2024.csv,gin,Beefeater Gin,RX,2,30
+Gin May 2024.csv,gin,Bombay Saphire,Mix,59,568.04
+Gin May 2024.csv,gin,Bombay Saphire,Martini,15,253.56
+Gin May 2024.csv,gin,Bombay Saphire,Mug Dbl,5,47.53
+Gin May 2024.csv,gin,Bombay Saphire,DBL,2,23
+Gin May 2024.csv,gin,Tanqueray,Mix,96,978.43
+Gin May 2024.csv,gin,Tanqueray,DBL,15,172.21
+Gin May 2024.csv,gin,Tanqueray,Martini,12,220
+Gin May 2024.csv,gin,Tanqueray,Mug Dbl,44,453.98
+Gin May 2024.csv,gin,Tanqueray,RX,2,27
+Gin May 2024.csv,gin,Well Gin,Martini,13,106.5
+Gin May 2024.csv,gin,Well Gin,Mix,48,225.66
+Gin May 2024.csv,gin,Well Gin,DBL,6,45
+Gin May 2024.csv,gin,Well Gin,RX,1,10.5
+Gin May 2024.csv,gin,Total,,354,3519.23

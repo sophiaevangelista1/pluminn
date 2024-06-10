@@ -1,0 +1,529 @@
+﻿item,size,category,quantity,net_sales,gross_sales,cost,net_margin,gross_margin
+$12 Pasta Station,,BANQUETS,43,516,516,,,
+$20 Bar Package,,BANQUETS,60,1063.25,1200,,,
+$22 Ala Carte,,BANQUETS,233,4060.23,5126,,,
+$25 Buffet,,BANQUETS,364,7510.59,9100,,,
+$27 Ala Carte,,BANQUETS,26,524.9,702,,,
+$3 Appetizer,,BANQUETS,130,390,390,,,
+$30 Buffet,,BANQUETS,295,7781.1,8850,,,
+$30 Sports Buffet,,BANQUETS,147,3809.82,4410,,,
+$37 Ala Carte,,BANQUETS,47,1535.39,1739,,,
+$4 Appetizer,,BANQUETS,90,360,360,,,
+$4 Champagne Toast,,BANQUETS,25,86.55,100,,,
+$4 Ultra,,DFT BEER,8,32,32,,,
+$40 Ala Carte,,BANQUETS,36,1271.36,1440,,,
+$45 Buffet,,BANQUETS,158,4050.09,7110,,,
+1800,Mix,LIQUOR,7,77,77,,,
+1800,DBL,LIQUOR,2,20,20,,,
+2 Room Suite,,HOTEL ROOMS,20,4100,4100,,,
+Absolut,Martini,LIQUOR,16,224.74,231,48,176.74,183
+Absolut,Mix,LIQUOR,22,174.41,178,33,141.41,145
+Absolut,DBL,LIQUOR,4,36,36,7.6,28.4,28.4
+Absolut,RX,LIQUOR,1,12,12,2.4,9.6,9.6
+Absolut Citron,Martini,LIQUOR,53,758.28,792,,,
+Absolut Citron,Mix,LIQUOR,2,16,16,,,
+Absolut Citron,Shot,LIQUOR,7,49,49,,,
+Absolut Citron,Mug Dbl,LIQUOR,11,88,88,,,
+Adult Brunch,,FOOD,1297,32966.67,33684,,,
+Adult Grilled Cheese,,FOOD,4,45.27,46,,,
+Adult Pasta,,FOOD,16,223.17,277.5,,,
+Ala Vodka,Full,BANQUETS,3,240,240,,,
+Ala Vodka,Half,BANQUETS,2,79.65,90,,,
+Amaretto,Mix,LIQUOR,3,17.5,19.5,4.5,13,15
+Amaretto,DBL,LIQUOR,1,4.2,8,1.9,2.3,6.1
+Amaretto Di Sarona,RX,LIQUOR,2,28.5,30,4.8,23.7,25.2
+Amaretto Di Sarona,Mix,LIQUOR,11,106.28,110,16.5,89.78,93.5
+Amaro-Averno,,LIQUOR,1,12,12,,,
+Antipasto,,BANQUETS,1,80,80,,,
+Aperol Spritz,,LIQUOR,16,146.5,160,,,
+Apple Crisp,,FOOD,196,1695.28,1772,,,
+Apple Juice,,BEVERAGES,23,69.65,74.75,,,
+Apricot Brandy,Mix,LIQUOR,1,6,6,,,
+Assorted Wraps,Full,BANQUETS,2,260,260,,,
+B&B,DBL,LIQUOR,1,13,13,,,
+B&B,RX,LIQUOR,3,51,51,,,
+BBQ Chicken,,FOOD,103,1801.14,1855,451.14,1350,1403.86
+BLT,,FOOD,7,83.5,96,,,
+BNI,,FOOD,366,4860.48,4860.48,,,
+Bacardi Rum,Mix,LIQUOR,46,322.76,338,,,
+Bacardi Rum,Mug Dbl,LIQUOR,59,403.95,426,,,
+Bacardi Rum,DBL,LIQUOR,4,29.97,32,,,
+Bailey's,RX,LIQUOR,3,39,39,7.2,31.8,31.8
+Bailey's,Mix,LIQUOR,6,51.06,54,9,42.06,45
+Bailey's,DBL,LIQUOR,4,43,44,7.6,35.4,36.4
+Bailey's,Shot,LIQUOR,3,24,24,2.4,21.6,21.6
+Baked Potato,,FOOD,642,6.5,6.5,,,
+Bay Fries,,FOOD,6,35,42,,,
+Beefeater Gin,DBL,LIQUOR,1,9.42,10,,,
+Beefeater Gin,Mix,LIQUOR,20,166.89,180,,,
+Beefeater Gin,Martini,LIQUOR,10,157.51,161,,,
+Beefeater Gin,Shot,LIQUOR,3,24,24,,,
+Beefeater Gin,RX,LIQUOR,2,30,30,,,
+Beer Sample,,DFT BEER,22,0,0,,,
+Bikini Martini,,LIQUOR,15,236.39,240,,,
+Black Berry Brandy,RX,LIQUOR,4,28.64,32,,,
+Blackberry Colada,,BEVERAGES,57,509.64,513,,,
+Blackberry Sour,,LIQUOR,1,5.5,5.5,,,
+Bombay Saphire,Mix,LIQUOR,60,578.04,600,,,
+Bombay Saphire,Mug Dbl,LIQUOR,6,57.53,61,,,
+Bombay Saphire,Martini,LIQUOR,15,253.56,259,,,
+Bombay Saphire,DBL,LIQUOR,2,23,24,,,
+Boom Boom Shrimp,,FOOD,447,6005.32,7153,2172.42,3832.9,4980.58
+Bread Pudding,,FOOD,126,1094.01,1136,,,
+Brownie Sundae,,FOOD,180,1526.19,1620,,,
+Brunch Bloody,,LIQUOR,106,402.29,424,,,
+Brunch Mimosa,,GLASS WINE,249,982.64,996,,,
+Bruschetta,Half,BANQUETS,1,25,25,,,
+Btl Blue Moon,,BTL BEER,118,767.46,826,178.18,589.28,647.82
+Btl Brut,,BOTTLE WINE,8,216.75,232,98.32,118.43,133.68
+Btl Collier Cab,,BOTTLE WINE,9,243.62,252,74.61,169.01,177.39
+Btl Collier Chard,,BOTTLE WINE,12,332.14,336,95.64,236.5,240.36
+Btl Corona,,BTL BEER,132,688.42,913,23.36,665.06,889.64
+Btl Corona Premier,,BTL BEER,30,196.66,204,4.38,192.28,199.62
+Btl Daou,,BOTTLE WINE,11,352,352,132,220,220
+Btl Flower,,BTL BEER,85,375.84,595,147.05,228.79,447.95
+Btl Merlot,,BOTTLE WINE,4,128,128,45.04,82.96,82.96
+Btl Michelob Ultra,,BTL BEER,141,794.2,846,160.74,633.46,685.26
+Btl Miller Lite,,BTL BEER,357,2046.62,2142,456.96,1589.66,1685.04
+Btl Muir Wood Chard,,BOTTLE WINE,12,368.29,384,144,224.29,240
+Btl Pessimist,,BOTTLE WINE,4,120,120,44,76,76
+Btl Pinot Grigo,,BOTTLE WINE,15,418.5,450,180,238.5,270
+Btl Pinot Noir,,BOTTLE WINE,8,231.03,240,80.72,150.31,159.28
+Btl Rose,,BOTTLE WINE,8,218.77,224,69.68,149.09,154.32
+Btl Sam Adams,,BTL BEER,49,301.85,343,74.48,227.37,268.52
+Btl Sav Blanc,,BOTTLE WINE,13,339,364,117,222,247
+Btl Stella,,BTL BEER,1,6,6,,,
+Btl Stella N/A,,BTL BEER,35,234.32,245,52.15,182.17,192.85
+Btl Yuengling,,BTL BEER,7,1.05,42,8.82,-7.77,33.18
+Buffalo Chicken Sandwich,,FOOD,4,38.87,60,,,
+Bulleit Bourbon,RX,LIQUOR,29,479.4,496,,,
+Bulleit Bourbon,Mix,LIQUOR,6,65,66,,,
+Bulleit Bourbon,Manhattan,LIQUOR,14,166.08,280,,,
+Bulleit Bourbon,DBL,LIQUOR,8,92,96,,,
+Bulleit Rye,Manhattan,LIQUOR,8,160,160,36.32,123.68,123.68
+Bulleit Rye,RX,LIQUOR,7,118,119,26.04,91.96,92.96
+Bushmills,DBL,LIQUOR,4,37,38,,,
+Bushmills,Shot,LIQUOR,3,21,21,,,
+Bushmills,RX,LIQUOR,2,22,22,,,
+Caesar Salad,,FOOD,265,4901,5035,1049.4,3851.6,3985.6
+Caesar Salad,Half,BANQUETS,2,57.6,60,,,
+Caesar Salad,Full,BANQUETS,1,50,50,,,
+Can Downeast,,BTL BEER,43,337.2,344,76.54,260.66,267.46
+Can Downeast Flavor,,BTL BEER,38,293.13,313.5,67.64,225.49,245.86
+Can High Noon Black Cherry,,BTL BEER,31,292.69,310,93.31,199.38,216.69
+Can High Noon Grapefruit,,BTL BEER,16,134.66,160,48.16,86.5,111.84
+Can High Noon Pineapple,,BTL BEER,25,242.86,250,75.25,167.61,174.75
+Can High Noon Watermelon,,BTL BEER,19,176.24,190,57.19,119.05,132.81
+Canadian Club,Mix,LIQUOR,4,25,25,6,19,19
+Canadian Club,RX,LIQUOR,2,13.64,17,4.86,8.78,12.14
+Cappucino,,BEVERAGES,51,291.94,306,22.95,268.99,283.05
+Caprese,Half,BANQUETS,1,34,40,,,
+Captain Morgan,Mug Dbl,LIQUOR,13,86.6,91,,,
+Captain Morgan,Mix,LIQUOR,70,431.16,490,,,
+Captain Morgan,DBL,LIQUOR,15,117,120,,,
+Casamigos,Mix,LIQUOR,7,118,118,,,
+Casamigos,DBL,LIQUOR,11,210.07,213,,,
+Casamigos,Shot,LIQUOR,1,14,14,,,
+Cheese Curds,,,50,436.04,502,162,274.04,340
+Cheese Platter,,BANQUETS,3,172.61,180,,,
+Cheese Platter,,BANQUETS,2,106.32,120,,,
+Cheesecake du Jour,,FOOD,140,1168.56,1261,,,
+Cherry Vodka,Mix,LIQUOR,1,7,7,,,
+Cherry Vodka,DBL,LIQUOR,2,10.8,16.5,,,
+Chicken Baltimore,,FOOD,3,75,75,,,
+Chicken Burger,,FOOD,81,1218.29,1364.25,405,813.29,959.25
+Chicken Cutlet Club,,FOOD,267,3822.42,4034.5,819.69,3002.73,3214.81
+Chicken Finger,,FOOD,31,270.2,310,,,
+Chicken Marsala,,FOOD,12,171,240.5,,,
+Chicken Marsala,Full,BANQUETS,3,360,360,,,
+Chicken Marsala,Half,BANQUETS,1,64.4,70,,,
+Chicken Parm,Half,BANQUETS,1,60,60,,,
+Chicken Parm,Full,BANQUETS,1,110,110,,,
+Chicken Parm Family Platter,,FOOD,21,925.62,945,,,
+Chicken Parmesan Sandwich,,FOOD,10,103,140,,,
+Chicken Parmigiana,,FOOD,525,9467.22,9889,2357.25,7109.97,7531.75
+Chicken Pot Pie,,FOOD,347,5411.61,5552,1519.86,3891.75,4032.14
+Chicken Salad Pita,,FOOD,315,4841.74,5047.5,967.05,3874.69,4080.45
+Chicken Stir Fry,Half,BANQUETS,1,51,60,,,
+Chimichurri Steak Salad,,FOOD,235,4781.66,4947,1978.7,2802.96,2968.3
+Chocolate Milk,,BEVERAGES,39,154.27,156,21.45,132.82,134.55
+Chocolate Pie,,FOOD,174,1445.72,1566,,,
+Chocolate Vodka,Martini,LIQUOR,4,36,40,,,
+Christain Bros,Martini,LIQUOR,1,9.45,10.5,,,
+Christain Bros,RX,LIQUOR,1,9,10,,,
+Christain Bros,Mix,LIQUOR,2,12,12,,,
+Club Soda,,BEVERAGES,190,368.91,380,28.5,340.41,351.5
+Coconut Rum,Mix,LIQUOR,152,392.56,1064,,,
+Coconut Rum,DBL,LIQUOR,5,37.72,41.25,,,
+Coconut Rum,Shot,LIQUOR,1,5,6,,,
+Coffee,,BEVERAGES,440,1294.21,1320,66,1228.21,1254
+Coke,,BEVERAGES,447,1298.79,1341,,,
+Compari,Mix,LIQUOR,1,9.5,9.5,1.38,8.12,8.12
+Cookie Tray,Half,BANQUETS,1,40,40,,,
+Crab Cake Sandwich,,FOOD,350,6149.61,6310,2681,3468.61,3629
+Crab Cakes,,BANQUETS,27,432,432,,,
+Cranberry Juice,,BEVERAGES,26,83.72,84.5,,,
+Cranberry Quinoa Salad,,FOOD,192,3577.8,3716,422.4,3155.4,3293.6
+Creme Brulee,,FOOD,186,1620.34,1676,,,
+Crown Royal,Mix,LIQUOR,13,121.59,130,25.48,96.11,104.52
+Crown Royal,Manhattan,LIQUOR,3,51,51,12,39,39
+Crown Royal,RX,LIQUOR,3,48,48,9.99,38.01,38.01
+Crown Royal,DBL,LIQUOR,1,12,12,2.52,9.48,9.48
+Cucumber Salad,Half,BANQUETS,1,35,35,,,
+Cuervo,Mix,LIQUOR,21,209.02,210.5,,,
+Cuervo,Shot,LIQUOR,6,45,45,,,
+Cuervo,RX,LIQUOR,2,28,28,,,
+Daiquiri,,LIQUOR,3,21.92,24,,,
+Dbl Decaf Espresso,,BEVERAGES,1,5,5,0.84,4.16,4.16
+Dbl Espresso,,BEVERAGES,12,47.47,48,9.12,38.35,38.88
+Decaf Cappucino,,BEVERAGES,9,53.69,56.25,4.32,49.37,51.93
+Decaf Coffee,,BEVERAGES,148,448.26,458.8,17.76,430.5,441.04
+Decaf Tea,,BEVERAGES,12,35.7,36,1.32,34.38,34.68
+Dessert Du Jour,,,44,352.91,442,,,
+Dft 2SP,,DFT BEER,184,1331.37,1410.75,,,
+Dft Black & Tan,,DFT BEER,2,10,10,1.78,8.22,8.22
+Dft Bohemian Gold,,DFT BEER,240,1652.36,1780.5,,,
+Dft FireStone,,DFT BEER,111,644.93,694,,,
+Dft Guinness,,DFT BEER,240,1785.46,1920,,,
+Dft Hoff,,DFT BEER,288,2218.37,2304,,,
+Dft Perpetual,,DFT BEER,381,2530.19,2701.5,,,
+Dft Sierra Nevada,,DFT BEER,99,717.88,742.5,,,
+Dft Stella,,DFT BEER,409,1808.21,2658.5,,,
+Dft Ultra,,DFT BEER,311,1627.57,1710.5,,,
+Dft Yuengling,,DFT BEER,512,1984.69,2565,,,
+Diet Coke,,BEVERAGES,518,1514.51,1554,,,
+Dolce De Leche,,FOOD,74,650.06,666,,,
+Drambuie,RX,LIQUOR,1,18,18,,,
+Eggplant Parmigiana,,FOOD,177,2757.86,2835.5,446.04,2311.82,2389.46
+Eggrolls,Half,BANQUETS,1,45,45,,,
+Espolon,Mug Dbl,LIQUOR,1,10,11,,,
+Espolon,Mix,LIQUOR,22,232,234,,,
+Espolon,Shot,LIQUOR,6,54,54,,,
+Espolon,DBL,LIQUOR,4,50,52,,,
+Espolon,RX,LIQUOR,3,54,54,,,
+Espresso,,BEVERAGES,10,29.61,30,3.8,25.81,26.2
+Extra Person Charge,,HOTEL ROOMS,8,200,200,,,
+Fajita Salad,,FOOD,241,4110.01,4359,1221.87,2888.14,3137.13
+Featured Drink,,LIQUOR,86,800.33,860,,,
+Filet tips,Half,BANQUETS,1,110.4,120,,,
+Filthy Root Beer,,BEVERAGES,23,160.2,161,,,
+Fish Sticks,,FOOD,17,148.37,153,,,
+Frangelico,Shot,LIQUOR,1,9,9,0.8,8.2,8.2
+Frangelico,DBL,LIQUOR,2,24,24,3.8,20.2,20.2
+Frangelico,RX,LIQUOR,2,30,30,4.8,25.2,25.2
+French Dip,,FOOD,376,7106.21,7543.5,2853.84,4252.37,4689.66
+French Fries,,FOOD,1341,2073.88,2100,978.93,1094.95,1121.07
+French Onion Soup,,FOOD,394,3077.93,3152,,,
+Fruit Platter,,BANQUETS,2,79.74,90,,,
+Fuzzy Navel,,LIQUOR,6,42,42,,,
+Garden Mockito,,BEVERAGES,44,306.48,308,43.56,262.92,264.44
+Garden Salad,Half,BANQUETS,1,21.25,25,,,
+Gift Card,,GIFT CARD,47,3338,4008,,,
+Gift Card $10,,GIFT CARD,5,50,50,,,
+Gift Card $100,,GIFT CARD,43,4300,4300,,,
+Gift Card $25,,GIFT CARD,8,175,200,,,
+Gift Card $50,,GIFT CARD,28,1350,1400,,,
+Ginger Beer,,BEVERAGES,1,3,3,,,
+Gingerale,,BEVERAGES,88,256.47,264,,,
+Glenlivet 12,DBL,LIQUOR,2,40,40,,,
+Glenlivet 12,RX,LIQUOR,2,62.22,64,,,
+Gls  Ca'del Pinot Grigio,6 oz.,GLASS WINE,198,1795.63,1982,,,
+Gls  Ca'del Pinot Grigio,9 oz.,GLASS WINE,160,2328.19,2400,,,
+Gls Brut,6 oz.,GLASS WINE,10,123.27,130,,,
+Gls Cathedral Sav Blanc,6 oz.,GLASS WINE,127,1089.61,1143,,,
+Gls Cathedral Sav Blanc,9 oz.,GLASS WINE,140,1892.15,1960,,,
+Gls Collier Cab,6 oz.,GLASS WINE,123,1020.01,1121,,,
+Gls Collier Cab,9 oz.,GLASS WINE,160,2184,2240,,,
+Gls Collier Chard,9 oz.,GLASS WINE,174,2370.52,2436,,,
+Gls Collier Chard,6 oz.,GLASS WINE,119,997.69,1071,,,
+Gls Daou Cab,9 oz.,GLASS WINE,50,827.47,850,,,
+Gls Daou Cab,6 oz.,GLASS WINE,21,244.13,252,,,
+Gls Domaine Rose,9 oz.,GLASS WINE,37,487.62,518,,,
+Gls Domaine Rose,6 oz.,GLASS WINE,39,336.11,351,,,
+Gls Grahams,,GLASS WINE,4,24,24,,,
+Gls Lamarco Prosecco,,GLASS WINE,1,14,14,,,
+Gls Merlot,9 oz.,GLASS WINE,33,539.34,561,,,
+Gls Merlot,6 oz.,GLASS WINE,43,435.21,518,,,
+Gls Muir Wood Chard,9 oz.,GLASS WINE,82,1360.89,1394,,,
+Gls Muir Wood Chard,6 oz.,GLASS WINE,34,369.78,408,,,
+Gls Pessimist,9 oz.,GLASS WINE,39,595.86,624,,,
+Gls Pessimist,6 oz.,GLASS WINE,25,252.82,275,,,
+Gls Pinot Noir,6 oz.,GLASS WINE,76,749.64,846,,,
+Gls Pinot Noir,9 oz.,GLASS WINE,88,1358.27,1408,,,
+Gls White Zinfandel,9 oz.,GLASS WINE,29,393.74,406,,,
+Gls White Zinfandel,6 oz.,GLASS WINE,37,311.79,333,,,
+Golden Margarita,,LIQUOR,1,14,14,,,
+Grand Marnier,Mix,LIQUOR,4,40,40,,,
+Grand Marnier,DBL,LIQUOR,3,36,36,,,
+Grand Marnier,RX,LIQUOR,1,14,15,,,
+Green Beans,Half,BANQUETS,1,35,35,,,
+Grey Goose,Martini,LIQUOR,99,1763.46,1853,,,
+Grey Goose,Mix,LIQUOR,35,351.74,370.5,,,
+Grey Goose,RX,LIQUOR,14,217,224,,,
+Grey Goose,Shot,LIQUOR,2,20,20,,,
+Hennessey,Mix,LIQUOR,1,11,11,,,
+Historic Holiday,,HOTEL ROOMS,1,190,190,,,
+Historic Room,,HOTEL ROOMS,43,6020,6020,,,
+Honey Mustard Chicken Wrap,,FOOD,335,4498.08,5034.5,931.3,3566.78,4103.2
+Hoodie,,RETAIL,1,40,40,,,
+Hot Chocolate,,BEVERAGES,19,56.2,61.75,,,
+Hot Tea,,BEVERAGES,83,244.74,249,16.6,228.14,232.4
+House Salad,,FOOD,32,484.1,536,,,
+Hummus Platter,Half,BANQUETS,1,35,35,,,
+Hummus Platter,,BANQUETS,1,35.45,40,,,
+Hummus Platter,,BANQUETS,1,35.07,40,,,
+IET Room,,HOTEL ROOMS,3,300,300,,,
+Ice Cream,,FOOD,68,398.93,408,,,
+Irish Coffee,,LIQUOR,26,226.71,234,,,
+JW Black,RX,LIQUOR,8,151,152,,,
+Jack Daniels,Mix,LIQUOR,54,408.47,432,84.78,323.69,347.22
+Jack Daniels,DBL,LIQUOR,25,72,225,47.5,24.5,177.5
+Jack Daniels,Shot,LIQUOR,1,7,7,0.85,6.15,6.15
+Jack Daniels,Mug Dbl,LIQUOR,20,160,169,31.4,128.6,137.6
+Jack Daniels,RX,LIQUOR,5,64.57,70,12.75,51.82,57.25
+Jack Daniels,Manhattan,LIQUOR,2,32,32,6.2,25.8,25.8
+Jack Fire,RX,LIQUOR,1,14,14,2.88,11.12,11.12
+Jaeger Schnitzel,,FOOD,350,7536.78,7718.5,875,6661.78,6843.5
+Jagermeister,Shot,LIQUOR,10,56,60,,,
+Jameson,DBL,LIQUOR,12,75.26,144,34.32,40.94,109.68
+Jameson,RX,LIQUOR,16,238,256,61.44,176.56,194.56
+Jameson,Mix,LIQUOR,29,298.98,320,64.38,234.6,255.62
+Jameson,Shot,LIQUOR,22,115,198,28.16,86.84,169.84
+Jim Beam Black,Manhattan,LIQUOR,7,103.19,112,,,
+Jim Beam Black,Shot,LIQUOR,36,8,293,,,
+Jim Beam Black,Mix,LIQUOR,9,72.68,76.5,,,
+Jim Beam Black,DBL,LIQUOR,2,22,22,,,
+Jim Beam Black,RX,LIQUOR,2,23.42,26,,,
+Jumbo Lump Crab Cakes,,FOOD,93,3451.63,3539,1272.24,2179.39,2266.76
+Jumbo Sea Scallops,,FOOD,154,4368.11,4466,1499.96,2868.15,2966.04
+Kahlua,Shot,LIQUOR,1,7,7,,,
+Kahlua,Mix,LIQUOR,2,14.14,16,,,
+Kahlua & Cream,,LIQUOR,2,10.18,16,,,
+Kentucky Coffee,,LIQUOR,7,67.85,70,,,
+Ketel One,Martini,LIQUOR,68,1086.46,1130,,,
+Ketel One,Mix,LIQUOR,58,544,562,,,
+Ketel One,RX,LIQUOR,10,130.08,150,,,
+Ketel One,DBL,LIQUOR,13,141.5,149.5,,,
+Ketel One,Mug Dbl,LIQUOR,16,143.86,158,,,
+Ketel One,Shot,LIQUOR,1,9,9,,,
+Key Lime,,LIQUOR,135,1041.24,1080,,,
+Kids Beef Sliders,,FOOD,87,720.9,785,,,
+Kids Brunch,,FOOD,136,1876.78,1920,,,
+Kids Chicken Fingers,,FOOD,201,1692.76,1810,,,
+Kids Grilled Cheese,,FOOD,31,267.03,279,,,
+Kids Ice Cream,,FOOD,55,216.66,220,,,
+Kids Mozzarella Eggrolls,,FOOD,12,104.61,108,,,
+Kids Pasta,,FOOD,100,849.54,932,,,
+Kids Pizza,,FOOD,64,528.4,577,,,
+Kir Royal,,GLASS WINE,1,7,7,,,
+Knob Creek,RX,LIQUOR,15,224,225,,,
+Knob Creek,Manhattan,LIQUOR,4,63.59,68,,,
+Knob Rye,Manhattan,LIQUOR,2,42,42,9.08,32.92,32.92
+Knob Rye,RX,LIQUOR,1,16.48,18,3.72,12.76,14.28
+Lemonade,,BEVERAGES,110,322.85,330,,,
+Lettuce Wraps,,FOOD,367,4598.46,5507,1464.33,3134.13,4042.67
+Limoncello Spritz,,LIQUOR,51,590.62,612,,,
+Linguine & Clams,,FOOD,168,3251.67,3365,937.44,2314.23,2427.56
+Loaded Fries,,FOOD,4,14.5,18.5,,,
+Lobster Roll,,FOOD,240,5823.64,6008,2956.8,2866.84,3051.2
+Long Island Ice Tea,,LIQUOR,67,482.82,737,,,
+Macallan 12,Shot,LIQUOR,1,13,13,,,
+Macallan 12,DBL,LIQUOR,1,13.81,18,,,
+Macallan 18,DBL,LIQUOR,1,60,60,,,
+Magnum Bottle,,BANQUETS,2,97.08,110,,,
+Mai Tai,,LIQUOR,4,32,32,,,
+Makers Mark,RX,LIQUOR,59,925.74,947,,,
+Makers Mark,Manhattan,LIQUOR,18,283.46,342,,,
+Makers Mark,Mix,LIQUOR,11,76.6,121,,,
+Makers Mark,DBL,LIQUOR,4,51,52,,,
+Makers Mark,Mug Dbl,LIQUOR,33,346.3,363,,,
+Mango Vodka,Mix,LIQUOR,6,44,45,,,
+Mango Vodka,Martini,LIQUOR,4,41,44,,,
+Mashed Potato,Half,BANQUETS,1,60,60,,,
+Meyers Dark,Mix,LIQUOR,1,6.5,6.5,,,
+Milk,,BEVERAGES,10,33.56,35,5,28.56,30
+Mimosa,,GLASS WINE,32,158.91,176,,,
+Mimosa Jug,,BANQUETS,8,524.72,600,,,
+Mozzarella Eggrolls,,FOOD,313,3299.13,3762,632.26,2666.87,3129.74
+Mug Club Domestic,,DFT BEER,117,458.65,468,,,
+Mug Club Domestic HH,,DFT BEER,51,205.78,255,,,
+Mug Club Import / Craft,,DFT BEER,305,1438.6,1538,,,
+Mug Club Import HH,,DFT BEER,59,287.56,354,,,
+N/A Spritzer,,BEVERAGES,19,125.88,133,,,
+New York Steak Salad,,FOOD,1,14,14,,,
+New York Strip Steak,,FOOD,266,7636.04,7865.5,2814.28,4821.76,5051.22
+OPEN Beer,,BTL BEER,3,8,10,,,
+OPEN Food Expo,,FOOD,13,1003.55,1036.75,,,
+OPEN Liquor,,LIQUOR,4,73.32,99.5,,,
+Old Grandad,RX,LIQUOR,3,33,33,7.65,25.35,25.35
+Old Grandad,Mix,LIQUOR,1,0,7.5,1.57,0,5.93
+Onion Petals,,FOOD,113,745.14,786,438.44,306.7,347.56
+Open Food Fry,,FOOD,16,99.39,104.5,,,
+Open Food Oven,,FOOD,2,20.21,22,,,
+Open Food Pantry,,FOOD,16,82.21,101.26,,,
+Open Food Sautee,,FOOD,6,85.02,86,,,
+Open Hotel,,HOTEL ROOMS,29,8220.29,8220.29,,,
+Open Refund,,CATERING DEPOSIT,2,82.98,85,,,
+Orange Juice,,BEVERAGES,88,265.96,286,,,
+Orange Vodka,DBL,LIQUOR,4,33,33,,,
+Orange Vodka,Martini,LIQUOR,5,55,55,,,
+Orange Vodka,Mix,LIQUOR,10,70,70,,,
+Orange Vodka,RX,LIQUOR,2,18,18,,,
+PI T-Shirt,,RETAIL,2,30,30,,,
+Party Deposit,,CATERING DEPOSIT,37,10122,10122,,,
+Pasta Salad,Half,BANQUETS,2,55.5,60,,,
+Patron,RX,LIQUOR,2,50,50,,,
+Patron,Shot,LIQUOR,5,68,70,,,
+Patron,Mix,LIQUOR,24,414.35,422,,,
+Peach Schnapps,DBL,LIQUOR,1,6,7,,,
+Peach Schnapps,Mix,LIQUOR,1,6,6,,,
+Pelligrino,,BEVERAGES,43,254.51,258,,,
+Petite Filet,,FOOD,291,8515.03,8793.25,2106.84,6408.19,6686.41
+Pina Colada,,LIQUOR,1,8,8,,,
+Pineapple Juice,,BEVERAGES,11,31.6,35.75,,,
+Pomegranate Vodka,Martini,LIQUOR,4,10.2,40,,,
+Premium Long Island,,LIQUOR,3,45,45,,,
+Pretzels,,FOOD,498,5632.99,6476,443.22,5189.77,6032.78
+Prime Pork Chop,,FOOD,145,4519.2,4640,1442.75,3076.45,3197.25
+Prosecco,,GLASS WINE,56,762.89,784,,,
+Raspberry Mockarita,,BEVERAGES,20,177.28,180,35,142.28,145
+Raspberry Tea,,BEVERAGES,134,397.57,402,,,
+Raspberry Vodka,Martini,LIQUOR,10,95.16,107,,,
+Raspberry Vodka,Mix,LIQUOR,7,48,49,,,
+Ricotta Crab Fritters,,FOOD,262,3538.86,4192,1013.94,2524.92,3178.06
+Roast Beef Sand,Full,BANQUETS,3,390,390,,,
+Roasted Vegetable,Full,BANQUETS,2,120,120,,,
+Room Charge,,BANQUETS,2,114.08,300,,,
+Rootbeer,,BEVERAGES,79,234.06,237,,,
+Rum Runner,,LIQUOR,5,23.94,40,,,
+SP Cheese Steak,,FOOD,224,4939.37,5147.5,,,
+SP Margarita,,LIQUOR,40,212.37,240,,,
+SP Melt,,FOOD,244,4489.82,4719,,,
+SP Quesadilla,,FOOD,151,2947.64,3100,,,
+SP Salad,,FOOD,226,3717.8,3898,,,
+SP Scampi,,FOOD,209,5749.22,5897.5,,,
+SP T-Bone,,FOOD,158,3395.53,3511.5,,,
+SP Trout,,FOOD,212,3992.03,4112,,,
+Sambuca,Shot,LIQUOR,3,24,24,,,
+Sambuca,DBL,LIQUOR,3,27,27,,,
+Sangria Jug,,BANQUETS,4,301.78,340,,,
+Sauza,Mug Dbl,LIQUOR,49,365.21,367.5,,,
+Sauza,Mix,LIQUOR,7,61.5,62.5,,,
+Seafood Soup,Cup,FOOD,75,585.72,600,,,
+Seafood Soup,Bowl,FOOD,18,176.96,180,,,
+Seagrams 7,Mix,LIQUOR,17,112.78,127.5,17.34,95.44,110.16
+Seagrams 7,DBL,LIQUOR,2,17,17,2.52,14.48,14.48
+Seagrams VO,Manhattan,LIQUOR,12,134,138,29.28,104.72,108.72
+Seagrams VO,Mix,LIQUOR,5,32.93,35,6.3,26.63,28.7
+Seagrams VO,RX,LIQUOR,3,29.5,31.5,5.76,23.74,25.74
+Shaken Espresso,,LIQUOR,8,79,80,,,
+Shirley Temple,,BEVERAGES,75,257.62,262.5,36,221.62,226.5
+Shrimp Kabobs,,FOOD,183,3521.64,3660.5,847.29,2674.35,2813.21
+Side Applesauce,,FOOD,53,78.31,81,,,
+Side Baked Pot,,FOOD,44,129,132,,,
+Side Broccoli,,FOOD,32,101.58,112,,,
+Side Caesar Salad,,FOOD,256,1612.28,1728,407.04,1205.24,1320.96
+Side Chips,,,13,65,65,13.39,51.61,51.61
+Side Garden Salad,,FOOD,313,1746.66,1861,497.67,1248.99,1363.33
+Side Garlic Bread,,FOOD,11,53.48,55,,,
+Side Gravy,,,2,2,2,,,
+Side Loaded Pot,,FOOD,3,12.42,15,,,
+Side Mashed Potato,,FOOD,15,60.14,61,,,
+Side Pasta,,,4,18.23,34,,,
+Side Rice,,,11,42.62,44,,,
+Side Slaw,,FOOD,16,61.86,64,,,
+Side Spinach,,FOOD,43,139.96,141,,,
+Side Veg,,FOOD,352,63.4,72,,,
+Single Room Suite,,HOTEL ROOMS,17,3060,3060,,,
+Skrewball,Shot,LIQUOR,2,15,15,,,
+Skrewball,Mix,LIQUOR,1,9,9,,,
+Sliders,,FOOD,427,4825.18,6415,1614.06,3211.12,4800.94
+Sorbet in Cup,,FOOD,24,205.07,216,,,
+Soup Du Jour,Cup,FOOD,267,1305.41,1335,,,
+Soup Du Jour,Bowl,FOOD,61,422.5,427,,,
+Southern Comfort,Mix,LIQUOR,1,6,7,,,
+Specialty Ice Cream,,FOOD,37,249.21,259,,,
+Sprite,,BEVERAGES,109,318.79,327,,,
+Steak & Cake,,FOOD,21,930.32,946,299.67,630.65,646.33
+Steak Frites,,FOOD,198,4624.34,4752,1188,3436.34,3564
+Steak Tacos,,FOOD,356,4282.69,5447,1623.36,2659.33,3823.64
+Steamed Clams Appetizer,,FOOD,9,132.67,144,,,
+Strawberry Sour,,LIQUOR,188,1386.08,1504,,,
+Street Corn Flat Bread,,FOOD,202,2403.98,3049,434.3,1969.68,2614.7
+Sub Caesar 1st,,FOOD,7,1,1,,,
+Sub House 1st,,FOOD,14,5,5,,,
+Surf & Turf,,FOOD,14,665.56,673,,,
+Sweet & Spicy Chicken,,FOOD,432,4602.65,6053,1101.6,3501.05,4951.4
+Sweet Fries,,FOOD,490,1592.76,1610,813.4,779.36,796.6
+Tanqueray,Mix,LIQUOR,101,1025.13,1061.5,,,
+Tanqueray,DBL,LIQUOR,18,206.21,216,,,
+Tanqueray,Martini,LIQUOR,13,238,239,,,
+Tanqueray,Mug Dbl,LIQUOR,47,485.48,500.5,,,
+Tanqueray,RX,LIQUOR,2,27,30,,,
+Teriyaki Salmon,,FOOD,251,6370.7,6526.5,1603.89,4766.81,4922.61
+Teriyaki Salmon,Half,BANQUETS,1,101.2,110,,,
+The Smokehouse Burger,,FOOD,464,8105.81,8371.25,2092.64,6013.17,6278.61
+The Usual Burger,,FOOD,542,8346.11,8725.25,1712.72,6633.39,7012.53
+Tito's,RX,LIQUOR,31,367,372,,,
+Tito's,Mix,LIQUOR,301,2343.43,2458.02,,,
+Tito's,Martini,LIQUOR,163,2265.44,2395.5,,,
+Tito's,Mug Dbl,LIQUOR,32,252.78,262,,,
+Tito's,DBL,LIQUOR,39,363.5,371.5,,,
+Tito's,Shot,LIQUOR,3,21,21,,,
+Toasted Almond,,LIQUOR,2,12,14,,,
+Tomato Juice,,BEVERAGES,11,32.5,35.75,,,
+Tonic Water,,BEVERAGES,10,30,30,4.8,25.2,25.2
+Twin Lobster Tails,,FOOD,4,168.5,168.5,,,
+Two Petite Filets,,FOOD,2,110,110,,,
+Unsweetened Ice Tea,,BEVERAGES,854,2412.04,2476.6,375.76,2036.28,2100.84
+Vanilla Vodka,Martini,LIQUOR,131,1289.07,1513,,,
+Vanilla Vodka,Mix,LIQUOR,3,21,23,,,
+Vanilla Vodka,Manhattan,LIQUOR,1,11,11,,,
+Vanilla Vodka,Mug Dbl,LIQUOR,14,93.63,98,,,
+Vanilla Vodka,RX,LIQUOR,1,10,10,,,
+Vegetable Platter,,BANQUETS,3,129.46,135,,,
+Vegetable Platter,,BANQUETS,2,74.43,84,,,
+Vegetable Stir Fry,,FOOD,249,5031.74,5165,642.42,4389.32,4522.58
+Virgin Bloody,,LIQUOR,2,9.5,10,,,
+Virgin Pina Colada,,LIQUOR,2,8.97,10,,,
+Watermelon Margarita,,LIQUOR,85,886.47,935,,,
+Wedge Salad,,FOOD,302,4812.08,5033,655.34,4156.74,4377.66
+Well Bourbon,Manhattan,LIQUOR,30,253.4,270,,,
+Well Bourbon,RX,LIQUOR,32,244.39,272,,,
+Well Bourbon,Mix,LIQUOR,12,65.5,79,,,
+Well Bourbon,DBL,LIQUOR,1,6.5,7.5,,,
+Well Brandy,Mix,LIQUOR,2,10.24,12,,,
+Well Brandy,RX,LIQUOR,2,14,14,,,
+Well Gin,Martini,LIQUOR,13,106.5,122.5,,,
+Well Gin,Mix,LIQUOR,49,225.66,307.25,,,
+Well Gin,DBL,LIQUOR,6,45,45,,,
+Well Gin,RX,LIQUOR,1,10.5,10.5,,,
+Well Rum,Mix,LIQUOR,55,346.5,391.25,,,
+Well Rum,DBL,LIQUOR,4,26.29,30,,,
+Well Scotch,RX,LIQUOR,12,174.92,180,,,
+Well Scotch,Manhattan,LIQUOR,2,31,33,,,
+Well Scotch,Mix,LIQUOR,3,22.91,24.75,,,
+Well Tequila,Mix,LIQUOR,217,1305.14,1658.75,,,
+Well Tequila,Shot,LIQUOR,7,33,38.5,,,
+Well Tequila,Mug Dbl,LIQUOR,6,47.5,47.5,,,
+Well Tequila,DBL,LIQUOR,8,70,70,,,
+Well Vodka,Mix,LIQUOR,225,1249.14,1484.33,,,
+Well Vodka,RX,LIQUOR,8,69.7,72,,,
+Well Vodka,Martini,LIQUOR,95,829.67,931,,,
+Well Vodka,Mug Dbl,LIQUOR,13,85.07,89.25,,,
+Well Vodka,DBL,LIQUOR,26,184.94,195,,,
+Well Whiskey,Mix,LIQUOR,14,75.25,87.5,,,
+Well Whiskey,Manhattan,LIQUOR,5,43.11,45,,,
+Well Whiskey,DBL,LIQUOR,1,7.5,7.5,,,
+Well Whiskey,RX,LIQUOR,2,17,17,,,
+White Linen,,LIQUOR,183,1592.45,1647,,,
+Windsor,RX,LIQUOR,1,10.5,10.5,1.92,8.58,8.58
+Wine Flight,,GLASS WINE,6,72,72,,,
+Woodford Reserve,RX,LIQUOR,37,741.04,777.5,,,
+Woodford Reserve,DBL,LIQUOR,10,140.34,150,,,
+Woodford Reserve,Mix,LIQUOR,8,104,104,,,
+Woodford Reserve,Shot,LIQUOR,2,20,20,,,
+Woodford Reserve,Manhattan,LIQUOR,14,308,309,,,
+Zucchini Fries,,FOOD,109,738.43,763,119.9,618.53,643.1
+limoncello,,LIQUOR,17,111,119,,,
+Total,,,38360,481174.56,518345.53,59020.55,,

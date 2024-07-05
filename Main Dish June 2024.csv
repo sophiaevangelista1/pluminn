@@ -1,0 +1,89 @@
+﻿Table Names,item,size,category,quantity,net_sales,gross_sales,cost,net_margin,gross_margin
+tavern june.csv,Adult Pasta,,FOOD,24,217.38,392,,,
+tavern june.csv,BBQ Chicken,,FOOD,106,1817.93,1909,464.28,1353.6500000000001,1444.72
+tavern june.csv,Baked Potato,,FOOD,115,0.5,0.5,,,
+tavern june.csv,Chicken Baltimore,,FOOD,5,96.28,128,,,
+tavern june.csv,Chicken Marsala,,FOOD,9,159.32,180,,,
+tavern june.csv,Chicken Parmigiana,,FOOD,447,8525.14,8963,2007.03,6518.1099999999997,6955.9700000000003
+tavern june.csv,Chicken Pot Pie,,FOOD,295,4597.95,4720,1292.1,3305.8499999999999,3427.9000000000001
+tavern june.csv,Eggplant Parmigiana,,FOOD,139,2124.87,2228,350.28,1774.5899999999999,1877.72
+tavern june.csv,French Fries,,FOOD,107,48,48,78.11,-30.109999999999999,-30.109999999999999
+tavern june.csv,Jaeger Schnitzel,,FOOD,359,7770.56,7910,897.5,6873.0600000000004,7012.5
+tavern june.csv,New York Strip Steak,,FOOD,7,112,112,74.06,37.939999999999998,37.939999999999998
+tavern june.csv,Shrimp Kabobs,,FOOD,226,4377.08,4520,1046.38,3330.6999999999998,3473.6199999999999
+tavern june.csv,Side Applesauce,,FOOD,3,0,0,,,
+tavern june.csv,Side Baked Pot,,FOOD,7,21,21,,,
+tavern june.csv,Side Caesar Salad,,FOOD,3,0,0,4.77,0,0
+tavern june.csv,Side Garden Salad,,FOOD,14,2,2,22.26,-20.260000000000002,-20.260000000000002
+tavern june.csv,Side Spinach,,FOOD,13,39,39,,,
+tavern june.csv,Side Veg,,FOOD,86,0,0,,,
+tavern june.csv,Sweet Fries,,FOOD,14,42,42,23.24,18.760000000000002,18.760000000000002
+tavern june.csv,Vegetable Stir Fry,,FOOD,243,4662.35,4973,626.94,4035.4099999999999,4346.0600000000004
+tavern june.csv,Total,,,2222,34613.36,36187.5,6886.95,,
+entrees june.csv,Baked Potato,,FOOD,306,1.5,1.5,,,
+entrees june.csv,Crab Cakes,,BANQUETS,6,96,96,,,
+entrees june.csv,French Fries,,FOOD,61,118,118,44.53,73.469999999999999,73.469999999999999
+entrees june.csv,Jumbo Lump Crab Cakes,,FOOD,128,4777.31,4865.5,1751.04,3026.27,3114.46
+entrees june.csv,Jumbo Sea Scallops,,FOOD,160,4603.72,4648,1558.4,3045.3200000000002,3089.5999999999999
+entrees june.csv,Linguine & Clams,,FOOD,155,3055.66,3105,864.9,2190.7600000000002,2240.0999999999999
+entrees june.csv,New York Strip Steak,,FOOD,200,6571.23,6677.5,2116,4455.2299999999996,4561.5
+entrees june.csv,Petite Filet,,FOOD,257,7769.51,7896.5,1860.68,5908.8299999999999,6035.8199999999997
+entrees june.csv,Prime Pork Chop,,FOOD,115,3606.89,3680,1144.25,2462.6399999999999,2535.75
+entrees june.csv,Side Applesauce,,FOOD,12,0,0,,,
+entrees june.csv,Side Baked Pot,,FOOD,14,42,42,,,
+entrees june.csv,Side Broccoli,,FOOD,1,0,0,,,
+entrees june.csv,Side Caesar Salad,,FOOD,4,0,0,6.36,0,0
+entrees june.csv,Side Garden Salad,,FOOD,9,0,0,14.31,0,0
+entrees june.csv,Side Spinach,,FOOD,26,78,78,,,
+entrees june.csv,Side Veg,,FOOD,160,0,0,,,
+entrees june.csv,Steak & Cake,,FOOD,29,1267.76,1307.5,413.83,853.92999999999995,893.66999999999996
+entrees june.csv,Steak Frites,,FOOD,216,5048.79,5184,1296,3752.79,3888
+entrees june.csv,Surf & Turf,,FOOD,18,866.43,879.5,,,
+entrees june.csv,Sweet Fries,,FOOD,16,48,48,26.56,21.440000000000001,21.440000000000001
+entrees june.csv,Teriyaki Salmon,,FOOD,209,5303.51,5434.5,1335.51,3968,4098.9899999999998
+entrees june.csv,Twin Lobster Tails,,FOOD,3,111,126,,,
+entrees june.csv,Two Petite Filets,,FOOD,2,106.14,110.75,,,
+entrees june.csv,Total,,,2107,43471.45,44298.25,12432.37,,
+sandwiches june.csv,Adult Grilled Cheese,,FOOD,4,40.23,44,,,
+sandwiches june.csv,BLT,,FOOD,5,58.5,65,,,
+sandwiches june.csv,Baked Potato,,FOOD,12,0,0,,,
+sandwiches june.csv,Buffalo Chicken Sandwich,,FOOD,6,70.48,91,,,
+sandwiches june.csv,Chicken Burger,,FOOD,109,1686.73,1792.25,545,1141.73,1247.25
+sandwiches june.csv,Chicken Cutlet Club,,FOOD,263,3842.43,3992.25,807.41,3035.02,3184.8400000000001
+sandwiches june.csv,Chicken Parmesan Sandwich,,FOOD,13,148.95,182.5,,,
+sandwiches june.csv,Chicken Parmigiana,,FOOD,29,0,0,130.21,0,0
+sandwiches june.csv,Chicken Salad Pita,,FOOD,341,5271.55,5464.5,1046.87,4224.6800000000003,4417.6300000000001
+sandwiches june.csv,Crab Cake Sandwich,,FOOD,375,6610.56,6755.5,2872.5,3738.0599999999999,3883
+sandwiches june.csv,French Dip,,FOOD,312,5846.43,6262.5,2368.08,3478.3499999999999,3894.4200000000001
+sandwiches june.csv,French Fries,,FOOD,539,971,971,393.47,577.52999999999997,577.52999999999997
+sandwiches june.csv,Honey Mustard Chicken Wrap,,FOOD,304,4171.43,4565.5,845.12,3326.3099999999999,3720.3800000000001
+sandwiches june.csv,Loaded Fries,,FOOD,3,12,12,,,
+sandwiches june.csv,Lobster Roll,,FOOD,302,7317.72,7556.5,3720.64,3597.0799999999999,3835.8600000000001
+sandwiches june.csv,Onion Petals,,FOOD,30,90,90,116.4,-26.399999999999999,-26.399999999999999
+sandwiches june.csv,Side Applesauce,,FOOD,4,0,0,,,
+sandwiches june.csv,Side Caesar Salad,,FOOD,19,0,0,30.21,0,0
+sandwiches june.csv,Side Garden Salad,,FOOD,52,0,0,82.68,0,0
+sandwiches june.csv,Side Veg,,FOOD,28,0,0,,,
+sandwiches june.csv,Sweet Fries,,FOOD,329,833,833,546.14,286.86000000000001,286.86000000000001
+sandwiches june.csv,The Smokehouse Burger,,FOOD,418,7199.32,7535.25,1885.18,5314.1400000000003,5650.0699999999997
+sandwiches june.csv,The Usual Burger,,FOOD,470,7057.47,7521.75,1485.2,5572.2700000000004,6036.5500000000002
+sandwiches june.csv,Total,,,3967,51227.8,53734.5,16875.11,,
+salads june.csv,Caesar Salad,,FOOD,308,5524.24,5740.5,1219.68,"$4,304.56","$4,520.82"
+salads june.csv,Chimichurri Steak Salad,,FOOD,200,4037.7,4211,1684,"$2,353.70","$2,527.00"
+salads june.csv,Crab Cakes,,BANQUETS,25,400,400,,,
+salads june.csv,Cranberry Quinoa Salad,,FOOD,181,3282.93,3474,398.2,"$2,884.73","$3,075.80"
+salads june.csv,Fajita Salad,,FOOD,211,3656.67,3811,1069.77,"$2,586.90","$2,741.23"
+salads june.csv,French Onion Soup,,FOOD,297,2318.24,2376,,,
+salads june.csv,House Salad,,FOOD,25,364.58,397.5,,,
+salads june.csv,New York Strip Steak,,FOOD,35,560,560,370.3,$189.70,$189.70
+salads june.csv,Petite Filet,,FOOD,2,40,40,14.48,$25.52,$25.52
+salads june.csv,Seafood Soup,Cup,FOOD,22,171.12,176,,,
+salads june.csv,Seafood Soup,Bowl,FOOD,21,207.06,210,,,
+salads june.csv,Side Caesar Salad,,FOOD,158,1243.1,1397,251.22,$991.88,"$1,145.78"
+salads june.csv,Side Garden Salad,,FOOD,209,1654.05,1732,332.31,"$1,321.74","$1,399.69"
+salads june.csv,Soup Du Jour,Bowl,FOOD,61,392.83,427,,,
+salads june.csv,Soup Du Jour,Cup,FOOD,200,961.45,1000,,,
+salads june.csv,Sub Caesar 1st,,FOOD,7,1,1,,,
+salads june.csv,Sub House 1st,,FOOD,23,0,0,,,
+salads june.csv,Wedge Salad,,FOOD,305,4727.14,4945,661.85,"$4,065.29","$4,283.15"
+salads june.csv,Total,,,2290,29542.11,30898,6001.81,"$23,540.30 (79.68%)","$24,896.19 (80.58%)"

@@ -1,0 +1,174 @@
+﻿Table Names,type,item,size,quantity,gross_sales
+vodka 23.csv,vodka,Absolut,Mix,21,162.5
+vodka 23.csv,vodka,Absolut,Martini,16,224
+vodka 23.csv,vodka,Absolut,DBL,8,72
+vodka 23.csv,vodka,Absolut,RX,1,10
+vodka 23.csv,vodka,Absolut Citron,Martini,83,1166.5
+vodka 23.csv,vodka,Absolut Citron,DBL,2,18
+vodka 23.csv,vodka,Absolut Citron,RX,2,20
+vodka 23.csv,vodka,Absolut Citron,Shot,3,21
+vodka 23.csv,vodka,Absolut Citron,Mix,28,214
+vodka 23.csv,vodka,Cherry Vodka,Martini,3,30
+vodka 23.csv,vodka,Cherry Vodka,DBL,3,24.75
+vodka 23.csv,vodka,Cherry Vodka,Mix,5,35
+vodka 23.csv,vodka,Chocolate Vodka,Martini,2,22
+vodka 23.csv,vodka,Coffee Vodka,Martini,1,12
+vodka 23.csv,vodka,Grey Goose,Martini,117,1804
+vodka 23.csv,vodka,Grey Goose,RX,8,116
+vodka 23.csv,vodka,Grey Goose,Mix,32,347
+vodka 23.csv,vodka,Grey Goose,Shot,11,110
+vodka 23.csv,vodka,Grey Goose,DBL,5,65
+vodka 23.csv,vodka,Ketel One,Martini,78,1201
+vodka 23.csv,vodka,Ketel One,Mix,44,425
+vodka 23.csv,vodka,Ketel One,RX,8,112
+vodka 23.csv,vodka,Ketel One,DBL,9,103.5
+vodka 23.csv,vodka,Mango Vodka,Martini,2,20
+vodka 23.csv,vodka,Mango Vodka,Shot,1,6.5
+vodka 23.csv,vodka,Mango Vodka,DBL,1,8.25
+vodka 23.csv,vodka,Orange Vodka,Martini,8,87
+vodka 23.csv,vodka,Orange Vodka,Mix,18,126
+vodka 23.csv,vodka,Orange Vodka,RX,1,9
+vodka 23.csv,vodka,Peach Schnapps,Mix,1,6
+vodka 23.csv,vodka,Peach Schnapps,Shot,1,5.5
+vodka 23.csv,vodka,Pomegranate Vodka,Mix,2,15
+vodka 23.csv,vodka,Pomegranate Vodka,DBL,1,8.25
+vodka 23.csv,vodka,Pomegranate Vodka,Martini,4,40
+vodka 23.csv,vodka,Raspberry Vodka,Mix,5,36
+vodka 23.csv,vodka,Raspberry Vodka,DBL,2,16.5
+vodka 23.csv,vodka,Raspberry Vodka,Martini,9,93
+vodka 23.csv,vodka,Sweet Tea Vodka,Mix,9,69.5
+vodka 23.csv,vodka,Tito's,Mix,259,2105
+vodka 23.csv,vodka,Tito's,DBL,99,940.5
+vodka 23.csv,vodka,Tito's,Martini,155,2085
+vodka 23.csv,vodka,Tito's,RX,18,199
+vodka 23.csv,vodka,Tito's,Shot,9,58.5
+vodka 23.csv,vodka,Vanilla Vodka,Martini,101,1173
+vodka 23.csv,vodka,Vanilla Vodka,Mix,7,49
+vodka 23.csv,vodka,Well Vodka,Mix,272,1810
+vodka 23.csv,vodka,Well Vodka,DBL,32,240
+vodka 23.csv,vodka,Well Vodka,Martini,84,816
+vodka 23.csv,vodka,Well Vodka,Shot,9,49.5
+vodka 23.csv,vodka,Well Vodka,RX,15,139.5
+vodka 23.csv,vodka,Total,,1615,16526.75
+tequila 23.csv,tequila,1800,Mix,2,22
+tequila 23.csv,tequila,1800,Shot,4,30
+tequila 23.csv,tequila,Casamigos,DBL,6,102
+tequila 23.csv,tequila,Casamigos,Mix,1,17.5
+tequila 23.csv,tequila,Cuervo,Mix,7,69.75
+tequila 23.csv,tequila,Espolon,DBL,2,24
+tequila 23.csv,tequila,Espolon,Mix,10,112
+tequila 23.csv,tequila,Espolon,RX,1,16
+tequila 23.csv,tequila,Patron,Mix,23,382
+tequila 23.csv,tequila,Patron,Shot,6,78
+tequila 23.csv,tequila,Patron,RX,3,69
+tequila 23.csv,tequila,Patron,DBL,3,54
+tequila 23.csv,tequila,Sauza,Mix,66,465
+tequila 23.csv,tequila,Sauza,RX,1,12
+tequila 23.csv,tequila,Well Tequila,Mix,185,1484.25
+tequila 23.csv,tequila,Well Tequila,Shot,2,11
+tequila 23.csv,tequila,Well Tequila,RX,2,18
+tequila 23.csv,tequila,Well Tequila,DBL,3,22.5
+tequila 23.csv,tequila,Total,,327,2989
+gin 23.csv,gin,Beefeater Gin,RX,3,40
+gin 23.csv,gin,Beefeater Gin,Mix,24,196
+gin 23.csv,gin,Beefeater Gin,Martini,11,154
+gin 23.csv,gin,Bombay Saphire,Mix,50,450
+gin 23.csv,gin,Bombay Saphire,Martini,19,287
+gin 23.csv,gin,Bombay Saphire,DBL,3,33
+gin 23.csv,gin,Tanqueray,Mix,125,1193.5
+gin 23.csv,gin,Tanqueray,DBL,8,88
+gin 23.csv,gin,Tanqueray,Martini,11,166.5
+gin 23.csv,gin,Well Gin,Mix,63,393.75
+gin 23.csv,gin,Well Gin,DBL,4,30
+gin 23.csv,gin,Well Gin,Martini,10,92
+gin 23.csv,gin,Well Gin,RX,2,17
+gin 23.csv,gin,Total,,333,3140.75
+rum 23.csv,rum,Bacardi Rum,Mix,102,739
+rum 23.csv,rum,Bacardi Rum,DBL,6,48
+rum 23.csv,rum,Captain Morgan,DBL,29,232
+rum 23.csv,rum,Captain Morgan,Mix,60,405
+rum 23.csv,rum,Captain Morgan,Shot,1,6
+rum 23.csv,rum,Coconut Rum,Mix,78,546
+rum 23.csv,rum,Coconut Rum,DBL,4,33
+rum 23.csv,rum,Meyers Dark,DBL,9,67.5
+rum 23.csv,rum,Meyers Dark,Mix,2,13
+rum 23.csv,rum,Well Rum,Mix,46,310.5
+rum 23.csv,rum,Total,,337,2400
+bourbon 23.csv,bourbon,Bulleit Bourbon,RX,33,528
+bourbon 23.csv,bourbon,Bulleit Bourbon,Mix,3,31
+bourbon 23.csv,bourbon,Bulleit Bourbon,Manhattan,11,209
+bourbon 23.csv,bourbon,Bulleit Bourbon,Shot,6,45
+bourbon 23.csv,bourbon,Jim Beam Black,Shot,12,98
+bourbon 23.csv,bourbon,Jim Beam Black,RX,8,96
+bourbon 23.csv,bourbon,Jim Beam Black,DBL,5,50
+bourbon 23.csv,bourbon,Jim Beam Black,Manhattan,2,30
+bourbon 23.csv,bourbon,Jim Beam Black,Mix,3,26.5
+bourbon 23.csv,bourbon,Knob Creek,RX,11,165
+bourbon 23.csv,bourbon,Knob Creek,Manhattan,9,153
+bourbon 23.csv,bourbon,Makers Mark,RX,54,810
+bourbon 23.csv,bourbon,Makers Mark,Mix,15,151
+bourbon 23.csv,bourbon,Makers Mark,Manhattan,27,459
+bourbon 23.csv,bourbon,Makers Mark,DBL,7,84
+bourbon 23.csv,bourbon,Makers Mark,Shot,1,8
+bourbon 23.csv,bourbon,Southern Comfort,Mix,1,7
+bourbon 23.csv,bourbon,Southern Comfort,RX,3,30
+bourbon 23.csv,bourbon,Southern Comfort,Manhattan,5,60
+bourbon 23.csv,bourbon,Well Bourbon,RX,16,136
+bourbon 23.csv,bourbon,Well Bourbon,Manhattan,10,90
+bourbon 23.csv,bourbon,Well Bourbon,Mix,3,18.75
+bourbon 23.csv,bourbon,Woodford Reserve,RX,29,580
+bourbon 23.csv,bourbon,Woodford Reserve,Manhattan,10,220
+bourbon 23.csv,bourbon,Woodford Reserve,DBL,2,28
+bourbon 23.csv,bourbon,Woodford Reserve,Mix,1,13
+bourbon 23.csv,bourbon,Total,,287,4126.25
+scotch 23.csv,scotch,Bushmills,Mix,1,8.5
+scotch 23.csv,scotch,Bushmills,DBL,2,19
+scotch 23.csv,scotch,Glenlivet 12,RX,8,256
+scotch 23.csv,scotch,Glenlivet 12,DBL,1,20
+scotch 23.csv,scotch,JW Black,Mix,1,13
+scotch 23.csv,scotch,JW Black,RX,4,76
+scotch 23.csv,scotch,Macallan 12,DBL,3,54
+scotch 23.csv,scotch,Macallan 12,Shot,1,13
+scotch 23.csv,scotch,Macallan 18,DBL,1,60
+scotch 23.csv,scotch,Well Scotch,Mix,15,105
+scotch 23.csv,scotch,Well Scotch,RX,12,144
+scotch 23.csv,scotch,Well Scotch,Manhattan,2,28
+scotch 23.csv,scotch,Well Scotch,DBL,1,9
+scotch 23.csv,scotch,Total,,52,805.5
+whiskey 23.csv,whiskey,Bulleit Rye,Manhattan,9,162
+whiskey 23.csv,whiskey,Bulleit Rye,RX,7,112
+whiskey 23.csv,whiskey,Bulleit Rye,DBL,2,24
+whiskey 23.csv,whiskey,Canadian Club,Manhattan,2,20
+whiskey 23.csv,whiskey,Canadian Club,Mix,3,18.75
+whiskey 23.csv,whiskey,Canadian Club,RX,2,17
+whiskey 23.csv,whiskey,Crown Royal,Mix,18,171
+whiskey 23.csv,whiskey,Crown Royal,Manhattan,7,112
+whiskey 23.csv,whiskey,Crown Royal,DBL,6,72
+whiskey 23.csv,whiskey,Crown Royal,RX,3,45
+whiskey 23.csv,whiskey,Jack Daniels,Mix,83,622.5
+whiskey 23.csv,whiskey,Jack Daniels,DBL,31,263.5
+whiskey 23.csv,whiskey,Jack Daniels,Shot,21,136.5
+whiskey 23.csv,whiskey,Jack Daniels,RX,7,77
+whiskey 23.csv,whiskey,Jack Daniels,Manhattan,3,39
+whiskey 23.csv,whiskey,Jack Fire,Shot,5,35
+whiskey 23.csv,whiskey,Jameson,RX,21,315
+whiskey 23.csv,whiskey,Jameson,DBL,13,156
+whiskey 23.csv,whiskey,Jameson,Mix,16,160
+whiskey 23.csv,whiskey,Jameson,Shot,22,176
+whiskey 23.csv,whiskey,Jameson,Manhattan,1,16
+whiskey 23.csv,whiskey,Jim Beam Black,Shot,3,24
+whiskey 23.csv,whiskey,Jim Beam Black,DBL,2,20
+whiskey 23.csv,whiskey,Jim Beam Black,Mix,1,8.5
+whiskey 23.csv,whiskey,Old Grandad,Mix,9,67.5
+whiskey 23.csv,whiskey,Seagrams 7,Mix,6,42
+whiskey 23.csv,whiskey,Seagrams 7,DBL,4,32
+whiskey 23.csv,whiskey,Seagrams VO,Mix,4,26
+whiskey 23.csv,whiskey,Seagrams VO,Manhattan,21,220.5
+whiskey 23.csv,whiskey,Seagrams VO,RX,2,20
+whiskey 23.csv,whiskey,Skrewball,Shot,26,195
+whiskey 23.csv,whiskey,Skrewball,RX,2,24
+whiskey 23.csv,whiskey,Skrewball,Mix,1,8.5
+whiskey 23.csv,whiskey,Well Whiskey,Mix,18,112.5
+whiskey 23.csv,whiskey,Well Whiskey,Manhattan,2,18
+whiskey 23.csv,whiskey,Well Whiskey,DBL,3,22.5
+whiskey 23.csv,whiskey,Total,,386,3591.25

@@ -1,0 +1,185 @@
+﻿Table Names,type,item,size,quantity,gross_sales
+rum june.csv,rum,Bacardi Rum,Mug Dbl,61,436
+rum june.csv,rum,Bacardi Rum,DBL,4,32
+rum june.csv,rum,Bacardi Rum,Mix,37,281
+rum june.csv,rum,Bacardi Rum,RX,1,10
+rum june.csv,rum,Captain Morgan,DBL,37,296
+rum june.csv,rum,Captain Morgan,Mix,66,463
+rum june.csv,rum,Coconut Rum,Mix,73,513
+rum june.csv,rum,Coconut Rum,DBL,3,24.75
+rum june.csv,rum,Meyers Dark,Mix,10,65
+rum june.csv,rum,Well Rum,Mix,78,601.75
+rum june.csv,rum,Well Rum,RX,2,18
+rum june.csv,rum,Well Rum,DBL,7,60.5
+rum june.csv,rum,Total,,379,2801
+scotch june.csv,scotch,Glenlivet 12,DBL,1,20
+scotch june.csv,scotch,Glenlivet 12,RX,2,64
+scotch june.csv,scotch,JW Black,RX,7,133
+scotch june.csv,scotch,Macallan 12,RX,1,30
+scotch june.csv,scotch,Well Scotch,Manhattan,2,32
+scotch june.csv,scotch,Well Scotch,Mix,8,66
+scotch june.csv,scotch,Well Scotch,RX,6,90
+scotch june.csv,scotch,Well Scotch,DBL,2,20
+scotch june.csv,scotch,Well Scotch,Mug Dbl,2,16.5
+scotch june.csv,scotch,Total,,31,471.5
+bourbon june.csv,bourbon,Bulleit Bourbon,RX,35,595
+bourbon june.csv,bourbon,Bulleit Bourbon,Manhattan,6,120
+bourbon june.csv,bourbon,Bulleit Bourbon,Shot,1,9
+bourbon june.csv,bourbon,Bulleit Bourbon,Mix,4,44
+bourbon june.csv,bourbon,Bulleit Bourbon,DBL,4,48
+bourbon june.csv,bourbon,Jim Beam Black,Shot,20,160
+bourbon june.csv,bourbon,Jim Beam Black,RX,2,26
+bourbon june.csv,bourbon,Jim Beam Black,DBL,5,55
+bourbon june.csv,bourbon,Jim Beam Black,Manhattan,4,64
+bourbon june.csv,bourbon,Jim Beam Black,Mix,4,34
+bourbon june.csv,bourbon,Knob Creek,RX,9,135.5
+bourbon june.csv,bourbon,Knob Creek,Mix,2,22
+bourbon june.csv,bourbon,Knob Creek,Manhattan,4,68
+bourbon june.csv,bourbon,Knob Creek,DBL,4,52
+bourbon june.csv,bourbon,Makers Mark,Manhattan,14,266
+bourbon june.csv,bourbon,Makers Mark,Mug Dbl,7,77
+bourbon june.csv,bourbon,Makers Mark,RX,39,624
+bourbon june.csv,bourbon,Makers Mark,DBL,7,91
+bourbon june.csv,bourbon,Makers Mark,Mix,6,66
+bourbon june.csv,bourbon,Southern Comfort,Mix,1,7
+bourbon june.csv,bourbon,Southern Comfort,DBL,1,8
+bourbon june.csv,bourbon,Southern Comfort,RX,2,20
+bourbon june.csv,bourbon,Well Bourbon,RX,23,195.5
+bourbon june.csv,bourbon,Well Bourbon,DBL,2,15
+bourbon june.csv,bourbon,Well Bourbon,Mix,11,68.75
+bourbon june.csv,bourbon,Well Bourbon,Manhattan,24,216
+bourbon june.csv,bourbon,Woodford Reserve,RX,27,569.5
+bourbon june.csv,bourbon,Woodford Reserve,Manhattan,4,88
+bourbon june.csv,bourbon,Woodford Reserve,DBL,2,30
+bourbon june.csv,bourbon,Woodford Reserve,Shot,1,10
+bourbon june.csv,bourbon,Total,,275,3784.25
+tequila june.csv,tequila,1800,Mix,3,35
+tequila june.csv,tequila,1800,DBL,3,30
+tequila june.csv,tequila,Casamigos,Mix,9,149
+tequila june.csv,tequila,Casamigos,Shot,1,14
+tequila june.csv,tequila,Casamigos,DBL,1,19
+tequila june.csv,tequila,Casamigos,RX,2,50
+tequila june.csv,tequila,Cuervo,Mix,4,42
+tequila june.csv,tequila,Cuervo,Shot,8,60
+tequila june.csv,tequila,Espolon,Mug Dbl,1,10
+tequila june.csv,tequila,Espolon,Mix,12,130
+tequila june.csv,tequila,Espolon,DBL,1,13
+tequila june.csv,tequila,Espolon,Shot,3,27
+tequila june.csv,tequila,Patron,Mix,21,361
+tequila june.csv,tequila,Patron,DBL,3,57
+tequila june.csv,tequila,Patron,Shot,2,28
+tequila june.csv,tequila,Sauza,Mix,2,16
+tequila june.csv,tequila,Sauza,Mug Dbl,66,507
+tequila june.csv,tequila,Sauza,RX,1,13
+tequila june.csv,tequila,Sauza,Shot,1,6.5
+tequila june.csv,tequila,Sauza,DBL,3,27
+tequila june.csv,tequila,Well Tequila,Mix,214,1673.25
+tequila june.csv,tequila,Well Tequila,RX,4,39
+tequila june.csv,tequila,Well Tequila,Shot,3,16.5
+tequila june.csv,tequila,Well Tequila,DBL,8,66
+tequila june.csv,tequila,Well Tequila,Mug Dbl,5,38.25
+tequila june.csv,tequila,Total,,381,3427.5
+vodka june.csv,vodka,Absolut,Mix,29,245
+vodka june.csv,vodka,Absolut,Martini,18,269
+vodka june.csv,vodka,Absolut,DBL,3,27
+vodka june.csv,vodka,Absolut,RX,2,24
+vodka june.csv,vodka,Absolut Citron,Martini,58,866
+vodka june.csv,vodka,Absolut Citron,Mug Dbl,10,83
+vodka june.csv,vodka,Cherry Vodka,Martini,1,10
+vodka june.csv,vodka,Chocolate Vodka,Martini,3,30
+vodka june.csv,vodka,Grey Goose,Martini,83,1534.5
+vodka june.csv,vodka,Grey Goose,Mix,37,392.5
+vodka june.csv,vodka,Grey Goose,RX,10,160
+vodka june.csv,vodka,Grey Goose,DBL,4,52
+vodka june.csv,vodka,Ketel One,Mix,56,536
+vodka june.csv,vodka,Ketel One,Martini,68,1127
+vodka june.csv,vodka,Ketel One,DBL,5,57.5
+vodka june.csv,vodka,Ketel One,Mug Dbl,5,50.5
+vodka june.csv,vodka,Ketel One,RX,8,120
+vodka june.csv,vodka,Mango Vodka,RX,2,18
+vodka june.csv,vodka,Mango Vodka,Mix,1,7
+vodka june.csv,vodka,Orange Vodka,Martini,6,66
+vodka june.csv,vodka,Orange Vodka,Mix,14,99
+vodka june.csv,vodka,Orange Vodka,DBL,6,49.5
+vodka june.csv,vodka,Peach Schnapps,Shot,1,5.5
+vodka june.csv,vodka,Pomegranate Vodka,Martini,2,22
+vodka june.csv,vodka,Raspberry Vodka,Martini,11,117.5
+vodka june.csv,vodka,Raspberry Vodka,Mix,7,49
+vodka june.csv,vodka,Raspberry Vodka,DBL,2,16.5
+vodka june.csv,vodka,Tito's,Martini,116,1700
+vodka june.csv,vodka,Tito's,Mix,242,1995
+vodka june.csv,vodka,Tito's,DBL,68,648
+vodka june.csv,vodka,Tito's,RX,33,398
+vodka june.csv,vodka,Tito's,Mug Dbl,48,398
+vodka june.csv,vodka,Tito's,Shot,2,14
+vodka june.csv,vodka,Vanilla Vodka,Martini,161,1891
+vodka june.csv,vodka,Vanilla Vodka,Mug Dbl,7,49
+vodka june.csv,vodka,Vanilla Vodka,Mix,21,147
+vodka june.csv,vodka,Well Vodka,DBL,17,130.5
+vodka june.csv,vodka,Well Vodka,Martini,54,539
+vodka june.csv,vodka,Well Vodka,Mix,225,1491.25
+vodka june.csv,vodka,Well Vodka,RX,8,74
+vodka june.csv,vodka,Well Vodka,Mug Dbl,8,52
+vodka june.csv,vodka,Well Vodka,Shot,6,33
+vodka june.csv,vodka,Total,,1468,15593.75
+gin june.csv,gin,Beefeater Gin,RX,2,26
+gin june.csv,gin,Beefeater Gin,Mix,16,144
+gin june.csv,gin,Beefeater Gin,Martini,15,244
+gin june.csv,gin,Bombay Saphire,Martini,11,189
+gin june.csv,gin,Bombay Saphire,Mix,47,471
+gin june.csv,gin,Bombay Saphire,RX,4,64
+gin june.csv,gin,Bombay Saphire,DBL,1,12
+gin june.csv,gin,Bombay Saphire,Mug Dbl,7,71
+gin june.csv,gin,Tanqueray,Mix,97,1018.5
+gin june.csv,gin,Tanqueray,Martini,25,460
+gin june.csv,gin,Tanqueray,DBL,9,108
+gin june.csv,gin,Tanqueray,Mug Dbl,27,287.5
+gin june.csv,gin,Tanqueray,RX,1,15
+gin june.csv,gin,Well Gin,Mix,50,313.5
+gin june.csv,gin,Well Gin,DBL,3,22.5
+gin june.csv,gin,Well Gin,Martini,14,133.5
+gin june.csv,gin,Well Gin,Shot,1,5.5
+gin june.csv,gin,Well Gin,RX,1,10.5
+gin june.csv,gin,Total,,331,3595.5
+whiskey june.csv,whiskey,Bulleit Rye,Manhattan,6,120.5
+whiskey june.csv,whiskey,Bulleit Rye,Mix,1,11
+whiskey june.csv,whiskey,Bulleit Rye,RX,4,68
+whiskey june.csv,whiskey,Canadian Club,Manhattan,1,10
+whiskey june.csv,whiskey,Canadian Club,Mix,1,6.25
+whiskey june.csv,whiskey,Crown Royal,Mix,6,60
+whiskey june.csv,whiskey,Crown Royal,RX,7,112
+whiskey june.csv,whiskey,Crown Royal,DBL,6,72
+whiskey june.csv,whiskey,Crown Royal,Manhattan,9,153
+whiskey june.csv,whiskey,Jack Daniels,Mix,39,312
+whiskey june.csv,whiskey,Jack Daniels,DBL,30,270
+whiskey june.csv,whiskey,Jack Daniels,Shot,3,21
+whiskey june.csv,whiskey,Jack Daniels,RX,6,84
+whiskey june.csv,whiskey,Jack Daniels,Manhattan,2,32
+whiskey june.csv,whiskey,Jack Daniels,Mug Dbl,3,24
+whiskey june.csv,whiskey,Jack Fire,RX,1,14
+whiskey june.csv,whiskey,Jameson,Shot,27,243
+whiskey june.csv,whiskey,Jameson,Mix,15,165
+whiskey june.csv,whiskey,Jameson,DBL,9,108
+whiskey june.csv,whiskey,Jameson,RX,8,128
+whiskey june.csv,whiskey,Jim Beam Black,RX,1,13
+whiskey june.csv,whiskey,Jim Beam Black,Shot,14,112
+whiskey june.csv,whiskey,Jim Beam Black,DBL,2,22
+whiskey june.csv,whiskey,Jim Beam Black,Manhattan,1,16
+whiskey june.csv,whiskey,Jim Beam Black,Mix,3,25.5
+whiskey june.csv,whiskey,Knob Rye,Manhattan,2,42
+whiskey june.csv,whiskey,Old Grandad,Mix,2,15
+whiskey june.csv,whiskey,Old Grandad,DBL,1,8.5
+whiskey june.csv,whiskey,Old Grandad,RX,1,11
+whiskey june.csv,whiskey,Seagrams 7,Mix,15,112.5
+whiskey june.csv,whiskey,Seagrams 7,DBL,3,25.5
+whiskey june.csv,whiskey,Seagrams 7,Manhattan,2,22
+whiskey june.csv,whiskey,Seagrams VO,RX,2,21
+whiskey june.csv,whiskey,Seagrams VO,Manhattan,5,57.5
+whiskey june.csv,whiskey,Seagrams VO,Mix,2,14
+whiskey june.csv,whiskey,Skrewball,DBL,5,56
+whiskey june.csv,whiskey,Well Whiskey,Mix,16,100
+whiskey june.csv,whiskey,Well Whiskey,RX,3,25.5
+whiskey june.csv,whiskey,Well Whiskey,DBL,4,30
+whiskey june.csv,whiskey,Well Whiskey,Shot,3,16.5
+whiskey june.csv,whiskey,Well Whiskey,Manhattan,2,18
+whiskey june.csv,whiskey,Total,,273,2777.25

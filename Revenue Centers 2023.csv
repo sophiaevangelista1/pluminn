@@ -1,0 +1,81 @@
+month,center,quantity,net_sales
+january,banquet room,43,21668.56
+january,bar,2733,153208.93
+january,dining room,420,48317.95
+january,garden room,510,54992.23
+january,lounge,33,8293.65
+january,online takeout,155,7167
+january,patio,43,4265.15
+january,phillies,110,14236.37
+january,takeout,448,15760.12
+january,tavern,973,112818.82
+february,banquet room,38,10035.85
+february,bar,2424,126144.43
+february,dining room,362,49373.96
+february,garden room,511,55243.64
+february,lounge,45,9261.45
+february,online takeout,102,4852
+february,patio,53,4132.92
+february,phillies,125,14980.76
+february,takeout,367,12505.57
+february,tavern,1003,103607.5
+march,banquet room,67,14961.97
+march,bar,2733,147806.2
+march,dining room,306,43202.55
+march,garden room,498,53698.36
+march,lounge,40,8896.6
+march,online takeout,96,5075.5
+march,patio,65,1663.51
+march,phillies,143,20147.09
+march,takeout,455,18991.72
+march,tavern,1078,114557.08
+april,banquet room,74,20831.35
+april,bar,2619,131420.89
+april,dining room,327,46462.37
+april,garden room,460,52435.85
+april,lounge,51,12657.14
+april,online takeout,81,3993.5
+april,patio,156,10372.91
+april,phillies,138,19986.48
+april,takeout,447,14636.64
+april,tavern,816,97035.32
+may,banquet room,79,28834.25
+may,bar,2431,133952.49
+may,dining room,374,49764.08
+may,garden room,484,62578.38
+may,lounge,39,10334.55
+may,online takeout,97,5293.5
+may,patio,406,34245.28
+may,phillies,131,18249.61
+may,takeout,433,15085.05
+may,tavern,848,99139.01
+june,banquet room,89,25568.33
+june,bar,2512,140276.69
+june,dining room,331,53081.68
+june,garden room,471,54882.58
+june,lounge,42,9590.72
+june,online takeout,93,4367
+june,patio,297,23059.4
+june,phillies,141,22062.66
+june,takeout,417,11421.44
+june,tavern,867,99564.73
+july,banquet room,87,25972.74
+july,bar,2368,130285.27
+july,dining room,273,33845.39
+july,garden room,485,54713.1
+july,lounge,36,9345.55
+july,online takeout,96,5376.75
+july,patio,154,11135.24
+july,phillies,123,12161.18
+july,takeout,487,12074.49
+july,tavern,918,91712.05
+august,banquet room,77,20047.09
+august,bar,2484,130785.44
+august,dining room,260,33341.7
+august,garden room,495,53115.31
+august,lounge,27,5772.3
+august,online takeout,136,6477.75
+august,patio,363,27060.68
+august,phillies,128,16155.91
+august,takeout,397,12784.51
+august,tavern,813,86265

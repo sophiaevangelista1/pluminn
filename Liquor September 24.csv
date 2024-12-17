@@ -1,0 +1,165 @@
+﻿Table Names,type,item,size,quantity,gross_sales
+Bourbon September.csv,bourbon,Basil Hayden,Manhattan,4,92
+Bourbon September.csv,bourbon,Basil Hayden,DBL,9,144
+Bourbon September.csv,bourbon,Basil Hayden,RX,17,340
+Bourbon September.csv,bourbon,Basil Hayden,Shot,1,13
+Bourbon September.csv,bourbon,Bulleit Bourbon,RX,27,459.5
+Bourbon September.csv,bourbon,Bulleit Bourbon,Manhattan,4,80
+Bourbon September.csv,bourbon,Bulleit Bourbon,Mix,3,34
+Bourbon September.csv,bourbon,Jim Beam Black,Shot,12,97
+Bourbon September.csv,bourbon,Jim Beam Black,RX,4,52
+Bourbon September.csv,bourbon,Jim Beam Black,Mix,2,17
+Bourbon September.csv,bourbon,Jim Beam Black,DBL,1,11
+Bourbon September.csv,bourbon,Makers Mark,RX,52,832.5
+Bourbon September.csv,bourbon,Makers Mark,DBL,5,65
+Bourbon September.csv,bourbon,Makers Mark,Manhattan,10,190
+Bourbon September.csv,bourbon,Makers Mark,Mix,12,135
+Bourbon September.csv,bourbon,Makers Mark,Mug Dbl,49,541
+Bourbon September.csv,bourbon,Well Bourbon,Mix,7,43.75
+Bourbon September.csv,bourbon,Well Bourbon,Manhattan,16,144
+Bourbon September.csv,bourbon,Well Bourbon,DBL,2,15
+Bourbon September.csv,bourbon,Well Bourbon,RX,21,178.5
+Bourbon September.csv,bourbon,Woodford Reserve,Manhattan,4,88
+Bourbon September.csv,bourbon,Woodford Reserve,RX,28,588.5
+Bourbon September.csv,bourbon,Woodford Reserve,Mix,4,55
+Bourbon September.csv,bourbon,Woodford Reserve,DBL,3,45
+Bourbon September.csv,bourbon,Total,,297,4260.75
+Whiskey September.csv,whiskey,Bulleit Rye,Manhattan,9,180
+Whiskey September.csv,whiskey,Bulleit Rye,RX,2,34
+Whiskey September.csv,whiskey,Canadian Club,Mix,2,12.5
+Whiskey September.csv,whiskey,Canadian Club,Manhattan,1,11
+Whiskey September.csv,whiskey,Crown Royal,Manhattan,9,153
+Whiskey September.csv,whiskey,Crown Royal,DBL,4,48
+Whiskey September.csv,whiskey,Crown Royal,Mix,18,180
+Whiskey September.csv,whiskey,Crown Royal,RX,3,48
+Whiskey September.csv,whiskey,Jack Daniels,RX,14,196.5
+Whiskey September.csv,whiskey,Jack Daniels,Mix,56,448
+Whiskey September.csv,whiskey,Jack Daniels,DBL,36,324
+Whiskey September.csv,whiskey,Jack Daniels,Mug Dbl,16,132
+Whiskey September.csv,whiskey,Jack Daniels,Shot,2,14
+Whiskey September.csv,whiskey,Jack Daniels,Manhattan,2,32
+Whiskey September.csv,whiskey,Jack Fire,Shot,2,14
+Whiskey September.csv,whiskey,Jameson,RX,4,64
+Whiskey September.csv,whiskey,Jameson,Mix,16,178
+Whiskey September.csv,whiskey,Jameson,Shot,12,108
+Whiskey September.csv,whiskey,Jameson,DBL,9,108
+Whiskey September.csv,whiskey,Jameson,Manhattan,2,34
+Whiskey September.csv,whiskey,Jim Beam Black,Shot,10,82
+Whiskey September.csv,whiskey,Jim Beam Black,Manhattan,1,16
+Whiskey September.csv,whiskey,Jim Beam Black,Mix,1,9.5
+Whiskey September.csv,whiskey,Knob Rye,Manhattan,1,21
+Whiskey September.csv,whiskey,Old Grandad,Mug Dbl,3,22.5
+Whiskey September.csv,whiskey,Old Grandad,DBL,2,17
+Whiskey September.csv,whiskey,Seagrams 7,Mix,15,112.5
+Whiskey September.csv,whiskey,Seagrams 7,DBL,5,42.5
+Whiskey September.csv,whiskey,Seagrams 7,Manhattan,1,11
+Whiskey September.csv,whiskey,Seagrams VO,Manhattan,6,69
+Whiskey September.csv,whiskey,Seagrams VO,RX,2,21
+Whiskey September.csv,whiskey,Seagrams VO,Mix,2,14
+Whiskey September.csv,whiskey,Well Whiskey,Mix,21,131.25
+Whiskey September.csv,whiskey,Well Whiskey,Shot,2,11
+Whiskey September.csv,whiskey,Well Whiskey,Manhattan,5,45
+Whiskey September.csv,whiskey,Well Whiskey,RX,2,17
+Whiskey September.csv,whiskey,Total,,298,2961.25
+Scotch September.csv,scotch,Bushmills,Shot,1,7
+Scotch September.csv,scotch,Bushmills,Mix,1,8.5
+Scotch September.csv,scotch,Glenlivet 12,RX,3,96
+Scotch September.csv,scotch,Glenlivet 12,DBL,1,20
+Scotch September.csv,scotch,JW Black,RX,5,95
+Scotch September.csv,scotch,Macallan 12,RX,2,58
+Scotch September.csv,scotch,Macallan 12,DBL,1,18
+Scotch September.csv,scotch,Well Scotch,Mix,10,82.5
+Scotch September.csv,scotch,Well Scotch,RX,7,105
+Scotch September.csv,scotch,Well Scotch,DBL,1,10
+Scotch September.csv,scotch,Total,,32,500
+Tequila September.csv,tequila,Casamigos,Mix,13,212
+Tequila September.csv,tequila,Casamigos,Shot,1,14
+Tequila September.csv,tequila,Casamigos,DBL,6,116
+Tequila September.csv,tequila,Cuervo,RX,1,14
+Tequila September.csv,tequila,Cuervo,Mix,15,155.5
+Tequila September.csv,tequila,Cuervo,Shot,1,7.5
+Tequila September.csv,tequila,Espolon,Mix,24,272
+Tequila September.csv,tequila,Espolon,Shot,17,153
+Tequila September.csv,tequila,Patron,DBL,5,97
+Tequila September.csv,tequila,Patron,Shot,3,42
+Tequila September.csv,tequila,Patron,Mix,10,175
+Tequila September.csv,tequila,Sauza,Mix,16,136
+Tequila September.csv,tequila,Sauza,Mug Dbl,23,175.5
+Tequila September.csv,tequila,Sauza,DBL,2,19
+Tequila September.csv,tequila,Well Tequila,Mix,122,954.5
+Tequila September.csv,tequila,Well Tequila,Mug Dbl,1,8.25
+Tequila September.csv,tequila,Well Tequila,DBL,8,74
+Tequila September.csv,tequila,Well Tequila,RX,2,19
+Tequila September.csv,tequila,Total,,270,2644.25
+Vodka September.csv,vodka,Absolut Citron,Martini,28,419
+Vodka September.csv,vodka,Absolut Citron,Mug Dbl,3,26
+Vodka September.csv,vodka,Absolut Citron,Mix,3,24
+Vodka September.csv,vodka,Absolut Citron,Shot,1,7
+Vodka September.csv,vodka,Grape Vodka,Mix,1,7
+Vodka September.csv,vodka,Grey Goose,Mix,34,371
+Vodka September.csv,vodka,Grey Goose,Martini,78,1449.5
+Vodka September.csv,vodka,Grey Goose,RX,8,128
+Vodka September.csv,vodka,Grey Goose,DBL,5,65
+Vodka September.csv,vodka,Ketel One,Martini,57,950
+Vodka September.csv,vodka,Ketel One,Mix,40,383
+Vodka September.csv,vodka,Ketel One,Shot,3,27
+Vodka September.csv,vodka,Ketel One,Mug Dbl,3,28.5
+Vodka September.csv,vodka,Ketel One,DBL,5,57.5
+Vodka September.csv,vodka,Ketel One,RX,1,15
+Vodka September.csv,vodka,Mango Vodka,Mix,5,36
+Vodka September.csv,vodka,Orange Vodka,Mug Dbl,1,7
+Vodka September.csv,vodka,Orange Vodka,Mix,4,28
+Vodka September.csv,vodka,Orange Vodka,Martini,4,44
+Vodka September.csv,vodka,Peach Schnapps,Shot,1,5.5
+Vodka September.csv,vodka,Peach Schnapps,Mix,1,6
+Vodka September.csv,vodka,Pomegranate Vodka,Martini,2,20
+Vodka September.csv,vodka,Pomegranate Vodka,Mix,1,7
+Vodka September.csv,vodka,Raspberry Vodka,Martini,5,55
+Vodka September.csv,vodka,Raspberry Vodka,Mix,12,84
+Vodka September.csv,vodka,Tito's,Martini,128,1881
+Vodka September.csv,vodka,Tito's,Mix,245,2015
+Vodka September.csv,vodka,Tito's,DBL,85,807.5
+Vodka September.csv,vodka,Tito's,Mug Dbl,23,187
+Vodka September.csv,vodka,Tito's,RX,34,410
+Vodka September.csv,vodka,Tito's,Shot,5,35
+Vodka September.csv,vodka,Vanilla Vodka,Martini,155,1817
+Vodka September.csv,vodka,Vanilla Vodka,Mug Dbl,1,7
+Vodka September.csv,vodka,Vanilla Vodka,Mix,5,35
+Vodka September.csv,vodka,Vanilla Vodka,Shot,1,6.5
+Vodka September.csv,vodka,Well Vodka,Mix,207,1381.75
+Vodka September.csv,vodka,Well Vodka,Martini,109,1086
+Vodka September.csv,vodka,Well Vodka,DBL,24,181
+Vodka September.csv,vodka,Well Vodka,Mug Dbl,15,106.75
+Vodka September.csv,vodka,Well Vodka,RX,4,36
+Vodka September.csv,vodka,Total,,1347,14242.5
+Rum September.csv,rum,Bacardi Rum,Mug Dbl,23,161
+Rum September.csv,rum,Bacardi Rum,Mix,26,192
+Rum September.csv,rum,Bacardi Rum,DBL,1,8
+Rum September.csv,rum,Captain Morgan,Mug Dbl,2,14
+Rum September.csv,rum,Captain Morgan,Mix,44,308
+Rum September.csv,rum,Captain Morgan,DBL,24,192
+Rum September.csv,rum,Coconut Rum,DBL,3,24.75
+Rum September.csv,rum,Coconut Rum,Mix,60,425
+Rum September.csv,rum,Meyers Dark,Mix,5,32.5
+Rum September.csv,rum,Well Rum,Mix,72,488
+Rum September.csv,rum,Well Rum,Mug Dbl,1,6.25
+Rum September.csv,rum,Well Rum,DBL,1,7.5
+Rum September.csv,rum,Total,,262,1859
+Gin September.csv,gin,Bombay Saphire,Martini,17,289
+Gin September.csv,gin,Bombay Saphire,Mix,18,180
+Gin September.csv,gin,Bombay Saphire,RX,1,18
+Gin September.csv,gin,Bombay Saphire,Mug Dbl,4,41
+Gin September.csv,gin,Hendricks,Martini,9,189
+Gin September.csv,gin,Hendricks,Mix,12,120
+Gin September.csv,gin,Hendricks,RX,2,40
+Gin September.csv,gin,Hendricks,DBL,1,13
+Gin September.csv,gin,Tanqueray,Mug Dbl,27,287.5
+Gin September.csv,gin,Tanqueray,Mix,89,934.5
+Gin September.csv,gin,Tanqueray,Martini,11,202
+Gin September.csv,gin,Tanqueray,RX,1,15
+Gin September.csv,gin,Tanqueray,DBL,9,108
+Gin September.csv,gin,Well Gin,Mix,45,285.25
+Gin September.csv,gin,Well Gin,Martini,10,93
+Gin September.csv,gin,Well Gin,DBL,9,67.5
+Gin September.csv,gin,Well Gin,Shot,1,5.5
+Gin September.csv,gin,Total,,266,2888.25

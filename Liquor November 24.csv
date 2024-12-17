@@ -1,0 +1,179 @@
+﻿Table Names,type,item,size,quantity,gross_sales
+Tequila November.csv,tequila,Casamigos,Mix,16,271
+Tequila November.csv,tequila,Casamigos,DBL,7,133
+Tequila November.csv,tequila,Casamigos,Shot,2,28
+Tequila November.csv,tequila,Casamigos,RX,4,100
+Tequila November.csv,tequila,Cuervo,Mix,8,80
+Tequila November.csv,tequila,Cuervo,RX,1,14
+Tequila November.csv,tequila,Cuervo,DBL,1,10
+Tequila November.csv,tequila,Espolon,Mix,15,170
+Tequila November.csv,tequila,Espolon,RX,1,18
+Tequila November.csv,tequila,Espolon,DBL,1,15
+Tequila November.csv,tequila,Patron,DBL,6,114
+Tequila November.csv,tequila,Patron,Mix,19,326
+Tequila November.csv,tequila,Patron,Shot,6,84
+Tequila November.csv,tequila,Patron,RX,3,72
+Tequila November.csv,tequila,Sauza,Mix,6,51
+Tequila November.csv,tequila,Sauza,Mug Dbl,4,30
+Tequila November.csv,tequila,Well Tequila,Mix,149,1170.25
+Tequila November.csv,tequila,Well Tequila,Shot,5,27.5
+Tequila November.csv,tequila,Well Tequila,DBL,20,178
+Tequila November.csv,tequila,Well Tequila,Mug Dbl,6,39.5
+Tequila November.csv,tequila,Total,,280,2931.25
+Gin November.csv,gin,Bombay Saphire,Martini,13,224
+Gin November.csv,gin,Bombay Saphire,Mix,15,150
+Gin November.csv,gin,Bombay Saphire,Mug Dbl,3,31
+Gin November.csv,gin,Bombay Saphire,DBL,5,60
+Gin November.csv,gin,Hendricks,Martini,19,401
+Gin November.csv,gin,Hendricks,Mix,8,80
+Gin November.csv,gin,Hendricks,DBL,1,13
+Gin November.csv,gin,Tanqueray,Mix,81,850.5
+Gin November.csv,gin,Tanqueray,DBL,7,84
+Gin November.csv,gin,Tanqueray,Martini,14,254
+Gin November.csv,gin,Tanqueray,Mug Dbl,10,108
+Gin November.csv,gin,Tanqueray,RX,3,45
+Gin November.csv,gin,Well Gin,Mix,79,494.75
+Gin November.csv,gin,Well Gin,Martini,15,136.5
+Gin November.csv,gin,Well Gin,RX,4,42
+Gin November.csv,gin,Well Gin,Shot,1,5.5
+Gin November.csv,gin,Well Gin,Mug Dbl,5,32.25
+Gin November.csv,gin,Total,,283,3011.5
+Bourbon November.csv,bourbon,Basil Hayden,Shot,1,13
+Bourbon November.csv,bourbon,Basil Hayden,DBL,5,80
+Bourbon November.csv,bourbon,Basil Hayden,RX,32,640
+Bourbon November.csv,bourbon,Basil Hayden,Mix,1,13.5
+Bourbon November.csv,bourbon,Basil Hayden,Manhattan,2,46
+Bourbon November.csv,bourbon,Bulleit Bourbon,RX,52,886.5
+Bourbon November.csv,bourbon,Bulleit Bourbon,Manhattan,14,280
+Bourbon November.csv,bourbon,Jim Beam Black,Shot,17,136
+Bourbon November.csv,bourbon,Jim Beam Black,Mix,3,25.5
+Bourbon November.csv,bourbon,Jim Beam Black,Manhattan,4,64
+Bourbon November.csv,bourbon,Makers Mark,Mug Dbl,86,962
+Bourbon November.csv,bourbon,Makers Mark,RX,62,992
+Bourbon November.csv,bourbon,Makers Mark,Manhattan,28,532
+Bourbon November.csv,bourbon,Makers Mark,Shot,2,18
+Bourbon November.csv,bourbon,Makers Mark,DBL,3,39
+Bourbon November.csv,bourbon,Makers Mark,Mix,8,88
+Bourbon November.csv,bourbon,Well Bourbon,Manhattan,20,180
+Bourbon November.csv,bourbon,Well Bourbon,RX,62,530
+Bourbon November.csv,bourbon,Well Bourbon,DBL,2,15
+Bourbon November.csv,bourbon,Well Bourbon,Mix,10,63.5
+Bourbon November.csv,bourbon,Well Bourbon,Shot,2,11
+Bourbon November.csv,bourbon,Woodford Reserve,Mix,3,39
+Bourbon November.csv,bourbon,Woodford Reserve,RX,39,819.5
+Bourbon November.csv,bourbon,Woodford Reserve,Manhattan,12,264
+Bourbon November.csv,bourbon,Woodford Reserve,Shot,2,20
+Bourbon November.csv,bourbon,Woodford Reserve,DBL,1,15
+Bourbon November.csv,bourbon,Total,,473,6772.5
+Vodka November.csv,vodka,Absolut Citron,Martini,63,943
+Vodka November.csv,vodka,Absolut Citron,RX,1,12
+Vodka November.csv,vodka,Absolut Citron,Mix,3,24
+Vodka November.csv,vodka,Cherry Vodka,Mix,2,14
+Vodka November.csv,vodka,Grey Goose,Mix,50,530
+Vodka November.csv,vodka,Grey Goose,RX,10,163
+Vodka November.csv,vodka,Grey Goose,Martini,120,2225
+Vodka November.csv,vodka,Grey Goose,Mug Dbl,4,43
+Vodka November.csv,vodka,Grey Goose,DBL,5,65
+Vodka November.csv,vodka,Ketel One,Martini,77,1282
+Vodka November.csv,vodka,Ketel One,Mug Dbl,68,654
+Vodka November.csv,vodka,Ketel One,Mix,52,505
+Vodka November.csv,vodka,Ketel One,Shot,3,27
+Vodka November.csv,vodka,Ketel One,RX,5,75
+Vodka November.csv,vodka,Ketel One,DBL,9,103.5
+Vodka November.csv,vodka,Mango Vodka,Mix,1,7
+Vodka November.csv,vodka,Mango Vodka,Martini,1,11
+Vodka November.csv,vodka,Orange Vodka,Mix,11,77
+Vodka November.csv,vodka,Orange Vodka,Martini,6,66
+Vodka November.csv,vodka,Orange Vodka,Mug Dbl,1,7
+Vodka November.csv,vodka,Orange Vodka,DBL,7,57.75
+Vodka November.csv,vodka,Peach Schnapps,Shot,1,5.5
+Vodka November.csv,vodka,Peach Schnapps,DBL,3,21
+Vodka November.csv,vodka,Pomegranate Vodka,Martini,5,51
+Vodka November.csv,vodka,Raspberry Vodka,Mix,14,98
+Vodka November.csv,vodka,Raspberry Vodka,DBL,1,8.25
+Vodka November.csv,vodka,Raspberry Vodka,Martini,2,22
+Vodka November.csv,vodka,Tito's,Martini,187,2742
+Vodka November.csv,vodka,Tito's,Mix,328,2670
+Vodka November.csv,vodka,Tito's,Mug Dbl,18,151
+Vodka November.csv,vodka,Tito's,DBL,81,776.5
+Vodka November.csv,vodka,Tito's,RX,27,326
+Vodka November.csv,vodka,Vanilla Vodka,Martini,226,2634
+Vodka November.csv,vodka,Vanilla Vodka,Mix,10,70
+Vodka November.csv,vodka,Vanilla Vodka,Mug Dbl,3,21
+Vodka November.csv,vodka,Vanilla Vodka,RX,2,20
+Vodka November.csv,vodka,Well Vodka,Mug Dbl,4,28
+Vodka November.csv,vodka,Well Vodka,Mix,202,1347.5
+Vodka November.csv,vodka,Well Vodka,DBL,23,174.5
+Vodka November.csv,vodka,Well Vodka,Martini,70,687
+Vodka November.csv,vodka,Well Vodka,RX,5,47.5
+Vodka November.csv,vodka,Total,,1711,18792
+Rum November.csv,rum,Bacardi Rum,Mix,30,218
+Rum November.csv,rum,Bacardi Rum,DBL,4,32
+Rum November.csv,rum,Bacardi Rum,Mug Dbl,18,126
+Rum November.csv,rum,Bacardi Rum,Shot,1,6
+Rum November.csv,rum,Bacardi Rum,RX,1,10
+Rum November.csv,rum,Captain Morgan,Mix,107,749
+Rum November.csv,rum,Captain Morgan,DBL,48,384
+Rum November.csv,rum,Captain Morgan,Mug Dbl,3,21
+Rum November.csv,rum,Coconut Rum,Mix,43,301
+Rum November.csv,rum,Coconut Rum,DBL,3,26.75
+Rum November.csv,rum,Meyers Dark,Mix,5,33.5
+Rum November.csv,rum,Meyers Dark,DBL,1,7.5
+Rum November.csv,rum,Well Rum,Mix,43,284.75
+Rum November.csv,rum,Well Rum,Shot,1,5.5
+Rum November.csv,rum,Well Rum,DBL,1,7.5
+Rum November.csv,rum,Total,,309,2212.5
+Whiskey November.csv,whiskey,Bulleit Rye,RX,5,85
+Whiskey November.csv,whiskey,Bulleit Rye,Manhattan,6,120
+Whiskey November.csv,whiskey,Bulleit Rye,DBL,1,12
+Whiskey November.csv,whiskey,Canadian Club,RX,10,85
+Whiskey November.csv,whiskey,Canadian Club,Manhattan,2,20
+Whiskey November.csv,whiskey,Canadian Club,Mix,3,18.75
+Whiskey November.csv,whiskey,Crown Royal,Mix,19,190
+Whiskey November.csv,whiskey,Crown Royal,DBL,7,84
+Whiskey November.csv,whiskey,Crown Royal,Manhattan,8,136
+Whiskey November.csv,whiskey,Crown Royal,RX,5,80
+Whiskey November.csv,whiskey,Jack Daniels,Mix,79,632
+Whiskey November.csv,whiskey,Jack Daniels,RX,10,140
+Whiskey November.csv,whiskey,Jack Daniels,DBL,34,306
+Whiskey November.csv,whiskey,Jack Daniels,Manhattan,4,64
+Whiskey November.csv,whiskey,Jack Daniels,Mug Dbl,12,103
+Whiskey November.csv,whiskey,Jack Daniels,Shot,4,28
+Whiskey November.csv,whiskey,Jack Fire,Mix,2,16
+Whiskey November.csv,whiskey,Jack Fire,DBL,1,10
+Whiskey November.csv,whiskey,Jameson,DBL,23,276
+Whiskey November.csv,whiskey,Jameson,Shot,37,333
+Whiskey November.csv,whiskey,Jameson,Mix,32,353
+Whiskey November.csv,whiskey,Jameson,RX,5,80
+Whiskey November.csv,whiskey,Jim Beam Black,Shot,10,81
+Whiskey November.csv,whiskey,Jim Beam Black,Manhattan,1,16
+Whiskey November.csv,whiskey,Jim Beam Black,Mix,6,52
+Whiskey November.csv,whiskey,Jim Beam Black,RX,1,13
+Whiskey November.csv,whiskey,Jim Beam Black,DBL,1,11
+Whiskey November.csv,whiskey,Old Grandad,Mix,1,7.5
+Whiskey November.csv,whiskey,Seagrams 7,Mix,15,112.5
+Whiskey November.csv,whiskey,Seagrams 7,DBL,7,59.5
+Whiskey November.csv,whiskey,Seagrams VO,RX,3,31.5
+Whiskey November.csv,whiskey,Seagrams VO,Mix,11,77
+Whiskey November.csv,whiskey,Seagrams VO,Manhattan,8,92
+Whiskey November.csv,whiskey,Skrewball,DBL,3,30
+Whiskey November.csv,whiskey,Skrewball,Shot,8,60
+Whiskey November.csv,whiskey,Well Whiskey,Mix,12,75
+Whiskey November.csv,whiskey,Well Whiskey,Manhattan,5,45
+Whiskey November.csv,whiskey,Well Whiskey,RX,2,17
+Whiskey November.csv,whiskey,Windsor,Mix,7,49
+Whiskey November.csv,whiskey,Windsor,RX,2,21
+Whiskey November.csv,whiskey,Total,,412,4021.75
+Scotch November.csv,scotch,Bushmills,DBL,1,9.5
+Scotch November.csv,scotch,Bushmills,RX,2,22
+Scotch November.csv,scotch,Glenlivet 12,DBL,4,80
+Scotch November.csv,scotch,Glenlivet 12,RX,2,52
+Scotch November.csv,scotch,JW Black,RX,9,171
+Scotch November.csv,scotch,JW Black,Mix,4,52
+Scotch November.csv,scotch,JW Black,DBL,2,32
+Scotch November.csv,scotch,Macallan 12,DBL,2,36
+Scotch November.csv,scotch,Well Scotch,Mix,21,173.25
+Scotch November.csv,scotch,Well Scotch,RX,9,135
+Scotch November.csv,scotch,Well Scotch,Manhattan,4,65
+Scotch November.csv,scotch,Well Scotch,DBL,1,10
+Scotch November.csv,scotch,Total,,61,837.75

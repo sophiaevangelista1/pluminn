@@ -1,0 +1,169 @@
+﻿Table Names,type,gross_sale,item,size,quantity,gross_sales
+Gin October.csv,gin,,Bombay Saphire,Martini,16,275.5
+Gin October.csv,gin,,Bombay Saphire,Mix,28,280
+Gin October.csv,gin,,Bombay Saphire,Mug Dbl,3,30
+Gin October.csv,gin,,Bombay Saphire,DBL,3,36
+Gin October.csv,gin,,Bombay Saphire,RX,1,16
+Gin October.csv,gin,,Hendricks,Mix,8,80
+Gin October.csv,gin,,Hendricks,Martini,12,253
+Gin October.csv,gin,,Hendricks,DBL,1,13
+Gin October.csv,gin,,Tanqueray,Mug Dbl,17,180.5
+Gin October.csv,gin,,Tanqueray,Mix,101,1060.5
+Gin October.csv,gin,,Tanqueray,Martini,15,272
+Gin October.csv,gin,,Tanqueray,DBL,5,60
+Gin October.csv,gin,,Well Gin,Mix,42,266.5
+Gin October.csv,gin,,Well Gin,Martini,15,141
+Gin October.csv,gin,,Well Gin,Shot,4,22
+Gin October.csv,gin,,Well Gin,DBL,4,31
+Gin October.csv,gin,,Total,,275,3017
+Rum October.csv,rum,,Bacardi Rum,Mix,21,148
+Rum October.csv,rum,,Bacardi Rum,Mug Dbl,20,140
+Rum October.csv,rum,,Bacardi Rum,DBL,1,8
+Rum October.csv,rum,,Captain Morgan,Mix,136,952
+Rum October.csv,rum,,Captain Morgan,DBL,27,216
+Rum October.csv,rum,,Coconut Rum,Mix,64,450
+Rum October.csv,rum,,Coconut Rum,Shot,1,6
+Rum October.csv,rum,,Coconut Rum,DBL,2,16.5
+Rum October.csv,rum,,Meyers Dark,Mix,10,65
+Rum October.csv,rum,,Well Rum,Mix,26,176.52
+Rum October.csv,rum,,Well Rum,Shot,1,5.5
+Rum October.csv,rum,,Well Rum,DBL,2,15
+Rum October.csv,rum,,Total,,311,2198.52
+Vodka October.csv,vodka,,Absolut Citron,Mug Dbl,12,98
+Vodka October.csv,vodka,,Absolut Citron,Martini,42,626
+Vodka October.csv,vodka,,Absolut Citron,Shot,5,36
+Vodka October.csv,vodka,,Absolut Citron,Mix,5,40
+Vodka October.csv,vodka,,Absolut Citron,DBL,2,18
+Vodka October.csv,vodka,,Cherry Vodka,Mug Dbl,1,7
+Vodka October.csv,vodka,,Cherry Vodka,Mix,4,28
+Vodka October.csv,vodka,,Grey Goose,Martini,83,1520.5
+Vodka October.csv,vodka,,Grey Goose,Mix,45,482.5
+Vodka October.csv,vodka,,Grey Goose,DBL,5,65
+Vodka October.csv,vodka,,Grey Goose,RX,13,208
+Vodka October.csv,vodka,,Grey Goose,Mug Dbl,4,42
+Vodka October.csv,vodka,,Grey Goose,Shot,1,10
+Vodka October.csv,vodka,,Ketel One,Martini,80,1329.68
+Vodka October.csv,vodka,,Ketel One,Mix,56,539
+Vodka October.csv,vodka,,Ketel One,RX,7,105
+Vodka October.csv,vodka,,Ketel One,Mug Dbl,43,410.5
+Vodka October.csv,vodka,,Ketel One,DBL,2,23
+Vodka October.csv,vodka,,Mango Vodka,Mix,3,21
+Vodka October.csv,vodka,,Orange Vodka,DBL,6,49.5
+Vodka October.csv,vodka,,Orange Vodka,Mix,6,42
+Vodka October.csv,vodka,,Orange Vodka,Martini,12,127
+Vodka October.csv,vodka,,Pomegranate Vodka,Martini,3,31
+Vodka October.csv,vodka,,Raspberry Vodka,Martini,5,54
+Vodka October.csv,vodka,,Raspberry Vodka,Mix,2,15
+Vodka October.csv,vodka,,Tito's,Mug Dbl,23,186
+Vodka October.csv,vodka,,Tito's,DBL,68,646
+Vodka October.csv,vodka,,Tito's,Mix,246,2018
+Vodka October.csv,vodka,,Tito's,Martini,133,1961
+Vodka October.csv,vodka,,Tito's,Shot,3,21
+Vodka October.csv,vodka,,Tito's,RX,40,480
+Vodka October.csv,vodka,,Vanilla Vodka,Martini,202,2392
+Vodka October.csv,vodka,,Vanilla Vodka,Mix,8,57
+Vodka October.csv,vodka,,Vanilla Vodka,Mug Dbl,1,8
+Vodka October.csv,vodka,,Vanilla Vodka,DBL,1,8.25
+Vodka October.csv,vodka,,Well Vodka,Mix,236,1601
+Vodka October.csv,vodka,,Well Vodka,Martini,106,1071
+Vodka October.csv,vodka,,Well Vodka,RX,13,119.5
+Vodka October.csv,vodka,,Well Vodka,DBL,17,127.5
+Vodka October.csv,vodka,,Well Vodka,Mug Dbl,16,116
+Vodka October.csv,vodka,,Total,,1560,16739.93
+Whiskey October.csv,whiskey,,Bulleit Rye,Manhattan,10,200
+Whiskey October.csv,whiskey,,Bulleit Rye,RX,3,51.5
+Whiskey October.csv,whiskey,,Bulleit Rye,DBL,1,12.5
+Whiskey October.csv,whiskey,,Canadian Club,RX,3,25.5
+Whiskey October.csv,whiskey,,Canadian Club,Manhattan,3,30
+Whiskey October.csv,whiskey,,Canadian Club,Mix,6,37.5
+Whiskey October.csv,whiskey,,Crown Royal,Manhattan,6,102
+Whiskey October.csv,whiskey,,Crown Royal,Mix,9,90
+Whiskey October.csv,whiskey,,Crown Royal,RX,6,96
+Whiskey October.csv,whiskey,,Crown Royal,DBL,1,12
+Whiskey October.csv,whiskey,,Jack Daniels,Mix,67,536
+Whiskey October.csv,whiskey,,Jack Daniels,DBL,21,189
+Whiskey October.csv,whiskey,,Jack Daniels,Mug Dbl,22,189
+Whiskey October.csv,whiskey,,Jack Daniels,RX,6,84
+Whiskey October.csv,whiskey,,Jack Daniels,Shot,3,21
+Whiskey October.csv,whiskey,,Jack Daniels,Manhattan,2,32
+Whiskey October.csv,whiskey,,Jack Fire,Shot,13,91
+Whiskey October.csv,whiskey,,Jameson,Shot,20,180
+Whiskey October.csv,whiskey,,Jameson,Mix,23,255
+Whiskey October.csv,whiskey,,Jameson,RX,5,80
+Whiskey October.csv,whiskey,,Jameson,DBL,4,48
+Whiskey October.csv,whiskey,,Jim Beam Black,Mix,2,17
+Whiskey October.csv,whiskey,,Jim Beam Black,Shot,7,57
+Whiskey October.csv,whiskey,,Jim Beam Black,Manhattan,4,64
+Whiskey October.csv,whiskey,,Jim Beam Black,RX,1,13
+Whiskey October.csv,whiskey,,Knob Rye,RX,4,72
+Whiskey October.csv,whiskey,,Knob Rye,Manhattan,2,42
+Whiskey October.csv,whiskey,,Old Grandad,RX,2,22
+Whiskey October.csv,whiskey,,Seagrams 7,Mix,9,67.5
+Whiskey October.csv,whiskey,,Seagrams 7,Manhattan,1,11
+Whiskey October.csv,whiskey,,Seagrams 7,DBL,1,8.5
+Whiskey October.csv,whiskey,,Seagrams VO,Manhattan,5,58.5
+Whiskey October.csv,whiskey,,Seagrams VO,Mix,5,35
+Whiskey October.csv,whiskey,,Seagrams VO,RX,1,10.5
+Whiskey October.csv,whiskey,,Skrewball,Shot,2,15
+Whiskey October.csv,whiskey,,Well Whiskey,Mix,16,100
+Whiskey October.csv,whiskey,,Well Whiskey,RX,1,8.5
+Whiskey October.csv,whiskey,,Well Whiskey,DBL,4,30
+Whiskey October.csv,whiskey,,Well Whiskey,Manhattan,2,18
+Whiskey October.csv,whiskey,,Well Whiskey,Shot,1,5.5
+Whiskey October.csv,whiskey,,Windsor,Mix,3,21
+Whiskey October.csv,whiskey,,Windsor,RX,2,21
+Whiskey October.csv,whiskey,,Total,,309,3059
+Scotch October.csv,scotch,52,Glenlivet 12,RX,2,
+Scotch October.csv,scotch,20,Glenlivet 12,DBL,1,
+Scotch October.csv,scotch,97,JW Black,RX,5,
+Scotch October.csv,scotch,24,JW Black,Shot,2,
+Scotch October.csv,scotch,32,JW Black,DBL,2,
+Scotch October.csv,scotch,60,JW Blue,DBL,1,
+Scotch October.csv,scotch,72,Macallan 12,DBL,4,
+Scotch October.csv,scotch,105,Well Scotch,RX,7,
+Scotch October.csv,scotch,107.25,Well Scotch,Mix,13,
+Scotch October.csv,scotch,569.25,Total,,37,
+Tequila October.csv,tequila,,Casamigos,DBL,5,95
+Tequila October.csv,tequila,,Casamigos,RX,4,100
+Tequila October.csv,tequila,,Casamigos,Mix,8,138
+Tequila October.csv,tequila,,Casamigos,Shot,1,14
+Tequila October.csv,tequila,,Cuervo,Mix,8,84
+Tequila October.csv,tequila,,Cuervo,Shot,9,67.5
+Tequila October.csv,tequila,,Espolon,Mix,18,210
+Tequila October.csv,tequila,,Patron,Mix,15,264
+Tequila October.csv,tequila,,Patron,Shot,4,56
+Tequila October.csv,tequila,,Patron,RX,1,24
+Tequila October.csv,tequila,,Patron,DBL,1,19
+Tequila October.csv,tequila,,Sauza,Mug Dbl,16,120
+Tequila October.csv,tequila,,Sauza,Mix,2,19
+Tequila October.csv,tequila,,Well Tequila,Mix,152,1182.01
+Tequila October.csv,tequila,,Well Tequila,DBL,10,89
+Tequila October.csv,tequila,,Well Tequila,RX,2,20
+Tequila October.csv,tequila,,Well Tequila,Mug Dbl,1,8.25
+Tequila October.csv,tequila,,Well Tequila,Shot,2,11
+Tequila October.csv,tequila,,Total,,259,2520.76
+Bourbon October.csv,bourbon,,Basil Hayden,RX,20,400
+Bourbon October.csv,bourbon,,Basil Hayden,Manhattan,3,69
+Bourbon October.csv,bourbon,,Basil Hayden,DBL,6,96
+Bourbon October.csv,bourbon,,Bulleit Bourbon,Manhattan,14,280
+Bourbon October.csv,bourbon,,Bulleit Bourbon,DBL,8,96
+Bourbon October.csv,bourbon,,Bulleit Bourbon,RX,28,476
+Bourbon October.csv,bourbon,,Bulleit Bourbon,Mix,8,91
+Bourbon October.csv,bourbon,,Jim Beam Black,Shot,21,168
+Bourbon October.csv,bourbon,,Jim Beam Black,Mix,10,85
+Bourbon October.csv,bourbon,,Jim Beam Black,Manhattan,4,64
+Bourbon October.csv,bourbon,,Jim Beam Black,RX,1,13
+Bourbon October.csv,bourbon,,Makers Mark,RX,60,960
+Bourbon October.csv,bourbon,,Makers Mark,DBL,6,78
+Bourbon October.csv,bourbon,,Makers Mark,Manhattan,17,323
+Bourbon October.csv,bourbon,,Makers Mark,Mix,12,134
+Bourbon October.csv,bourbon,,Makers Mark,Mug Dbl,50,550
+Bourbon October.csv,bourbon,,Well Bourbon,Manhattan,13,117
+Bourbon October.csv,bourbon,,Well Bourbon,RX,27,229.5
+Bourbon October.csv,bourbon,,Well Bourbon,DBL,3,22.5
+Bourbon October.csv,bourbon,,Well Bourbon,Mix,12,77
+Bourbon October.csv,bourbon,,Woodford Reserve,RX,38,799
+Bourbon October.csv,bourbon,,Woodford Reserve,DBL,9,135
+Bourbon October.csv,bourbon,,Woodford Reserve,Manhattan,5,110
+Bourbon October.csv,bourbon,,Woodford Reserve,Shot,1,10
+Bourbon October.csv,bourbon,,Total,,376,5383

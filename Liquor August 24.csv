@@ -1,0 +1,177 @@
+﻿Table Names,type,item,size,quantity,gross_sales
+Bourbon August.csv,bourbon,Basil Hayden,RX,31,620
+Bourbon August.csv,bourbon,Basil Hayden,Manhattan,1,23
+Bourbon August.csv,bourbon,Basil Hayden,DBL,2,32
+Bourbon August.csv,bourbon,Bulleit Bourbon,Mix,12,134
+Bourbon August.csv,bourbon,Bulleit Bourbon,Manhattan,9,180
+Bourbon August.csv,bourbon,Bulleit Bourbon,RX,31,529
+Bourbon August.csv,bourbon,Bulleit Bourbon,DBL,2,24
+Bourbon August.csv,bourbon,Jim Beam Black,Shot,7,56
+Bourbon August.csv,bourbon,Jim Beam Black,Mug Dbl,9,76.5
+Bourbon August.csv,bourbon,Jim Beam Black,Manhattan,3,48
+Bourbon August.csv,bourbon,Jim Beam Black,RX,2,26
+Bourbon August.csv,bourbon,Jim Beam Black,Mix,2,17
+Bourbon August.csv,bourbon,Jim Beam Black,DBL,5,55
+Bourbon August.csv,bourbon,Makers Mark,RX,37,592
+Bourbon August.csv,bourbon,Makers Mark,Mug Dbl,36,396
+Bourbon August.csv,bourbon,Makers Mark,Manhattan,16,304
+Bourbon August.csv,bourbon,Makers Mark,Mix,13,143
+Bourbon August.csv,bourbon,Makers Mark,DBL,5,65
+Bourbon August.csv,bourbon,Southern Comfort,Mix,1,7
+Bourbon August.csv,bourbon,Southern Comfort,RX,3,30
+Bourbon August.csv,bourbon,Southern Comfort,Manhattan,1,12
+Bourbon August.csv,bourbon,Well Bourbon,RX,23,195.5
+Bourbon August.csv,bourbon,Well Bourbon,Mix,11,71.75
+Bourbon August.csv,bourbon,Well Bourbon,Manhattan,14,126
+Bourbon August.csv,bourbon,Well Bourbon,DBL,5,37.5
+Bourbon August.csv,bourbon,Woodford Reserve,RX,21,442
+Bourbon August.csv,bourbon,Woodford Reserve,DBL,13,195
+Bourbon August.csv,bourbon,Woodford Reserve,Manhattan,3,66
+Bourbon August.csv,bourbon,Woodford Reserve,Mix,1,13
+Bourbon August.csv,bourbon,Total,,319,4516.25
+Tequila August.csv,tequila,Casamigos,Mix,13,228
+Tequila August.csv,tequila,Casamigos,Shot,5,70
+Tequila August.csv,tequila,Casamigos,RX,9,225
+Tequila August.csv,tequila,Casamigos,DBL,5,95
+Tequila August.csv,tequila,Cuervo,Mix,3,29.5
+Tequila August.csv,tequila,Espolon,RX,2,40
+Tequila August.csv,tequila,Espolon,Mix,10,108
+Tequila August.csv,tequila,Espolon,Shot,6,54
+Tequila August.csv,tequila,Espolon,DBL,2,26
+Tequila August.csv,tequila,Patron,Mix,19,342
+Tequila August.csv,tequila,Patron,Shot,5,70
+Tequila August.csv,tequila,Patron,RX,2,48
+Tequila August.csv,tequila,Patron,DBL,1,19
+Tequila August.csv,tequila,Sauza,DBL,1,11
+Tequila August.csv,tequila,Sauza,Mug Dbl,23,172.5
+Tequila August.csv,tequila,Sauza,Mix,8,71
+Tequila August.csv,tequila,Well Tequila,Mix,157,1250.76
+Tequila August.csv,tequila,Well Tequila,Shot,6,33
+Tequila August.csv,tequila,Well Tequila,DBL,12,96
+Tequila August.csv,tequila,Well Tequila,Mug Dbl,2,18.5
+Tequila August.csv,tequila,Total,,291,3007.26
+Scotch August.csv,scotch,Bushmills,DBL,1,9.5
+Scotch August.csv,scotch,JW Black,DBL,4,64
+Scotch August.csv,scotch,JW Black,RX,7,133
+Scotch August.csv,scotch,JW Black,Mix,3,39
+Scotch August.csv,scotch,Macallan 12,DBL,3,54
+Scotch August.csv,scotch,Macallan 12,RX,2,60
+Scotch August.csv,scotch,Well Scotch,Mix,4,33
+Scotch August.csv,scotch,Well Scotch,Manhattan,3,49
+Scotch August.csv,scotch,Well Scotch,RX,2,30
+Scotch August.csv,scotch,Well Scotch,DBL,1,10
+Scotch August.csv,scotch,Total,,30,481.5
+Vodka August.csv,vodka,Absolut Citron,Martini,42,626
+Vodka August.csv,vodka,Absolut Citron,Mix,3,24
+Vodka August.csv,vodka,Absolut Citron,Shot,5,35
+Vodka August.csv,vodka,Cherry Vodka,Mix,15,105
+Vodka August.csv,vodka,Chocolate Vodka,Martini,1,10
+Vodka August.csv,vodka,Grape Vodka,Mix,1,7
+Vodka August.csv,vodka,Grey Goose,Martini,75,1388
+Vodka August.csv,vodka,Grey Goose,Mix,35,370.5
+Vodka August.csv,vodka,Grey Goose,DBL,4,52
+Vodka August.csv,vodka,Grey Goose,RX,5,84
+Vodka August.csv,vodka,Grey Goose,Mug Dbl,2,21
+Vodka August.csv,vodka,Ketel One,Martini,80,1322.5
+Vodka August.csv,vodka,Ketel One,RX,4,60
+Vodka August.csv,vodka,Ketel One,DBL,6,69
+Vodka August.csv,vodka,Ketel One,Mix,53,508.5
+Vodka August.csv,vodka,Ketel One,Mug Dbl,9,88.5
+Vodka August.csv,vodka,Ketel One,Shot,1,9
+Vodka August.csv,vodka,Mango Vodka,Mix,8,56
+Vodka August.csv,vodka,Mango Vodka,Martini,2,22
+Vodka August.csv,vodka,Orange Vodka,Mix,22,154
+Vodka August.csv,vodka,Orange Vodka,Martini,7,76
+Vodka August.csv,vodka,Orange Vodka,DBL,3,24.75
+Vodka August.csv,vodka,Orange Vodka,Shot,1,6.5
+Vodka August.csv,vodka,Peach Schnapps,Mix,8,48
+Vodka August.csv,vodka,Peach Schnapps,RX,1,8
+Vodka August.csv,vodka,Pomegranate Vodka,Martini,9,95
+Vodka August.csv,vodka,Pomegranate Vodka,Mix,1,7
+Vodka August.csv,vodka,Raspberry Vodka,Mix,6,42
+Vodka August.csv,vodka,Raspberry Vodka,Martini,10,110
+Vodka August.csv,vodka,Tito's,Mix,231,1886
+Vodka August.csv,vodka,Tito's,Martini,164,2414
+Vodka August.csv,vodka,Tito's,DBL,50,475
+Vodka August.csv,vodka,Tito's,RX,23,277
+Vodka August.csv,vodka,Tito's,Mug Dbl,25,207
+Vodka August.csv,vodka,Tito's,Shot,2,14
+Vodka August.csv,vodka,Vanilla Vodka,Mix,11,78
+Vodka August.csv,vodka,Vanilla Vodka,Martini,126,1479
+Vodka August.csv,vodka,Vanilla Vodka,Mug Dbl,7,51
+Vodka August.csv,vodka,Vanilla Vodka,Shot,2,13
+Vodka August.csv,vodka,Well Vodka,Mix,198,1296.5
+Vodka August.csv,vodka,Well Vodka,Martini,77,761
+Vodka August.csv,vodka,Well Vodka,DBL,32,240
+Vodka August.csv,vodka,Well Vodka,RX,17,161.5
+Vodka August.csv,vodka,Well Vodka,Mug Dbl,7,48.75
+Vodka August.csv,vodka,Well Vodka,Shot,1,5.5
+Vodka August.csv,vodka,Total,,1392,14836.5
+Gin August.csv,gin,Bombay Saphire,Mix,40,400
+Gin August.csv,gin,Bombay Saphire,Mug Dbl,1,11
+Gin August.csv,gin,Bombay Saphire,RX,1,16
+Gin August.csv,gin,Bombay Saphire,Martini,10,174
+Gin August.csv,gin,Bombay Saphire,DBL,1,12
+Gin August.csv,gin,Hendricks,Mix,13,130
+Gin August.csv,gin,Hendricks,DBL,1,13
+Gin August.csv,gin,Hendricks,Martini,11,236
+Gin August.csv,gin,Tanqueray,Mix,92,966
+Gin August.csv,gin,Tanqueray,Martini,15,273.5
+Gin August.csv,gin,Tanqueray,Mug Dbl,36,380
+Gin August.csv,gin,Tanqueray,DBL,4,48
+Gin August.csv,gin,Well Gin,Mix,59,369.75
+Gin August.csv,gin,Well Gin,RX,2,21
+Gin August.csv,gin,Well Gin,Martini,6,57
+Gin August.csv,gin,Well Gin,DBL,2,15
+Gin August.csv,gin,Total,,294,3122.25
+Rum August.csv,rum,Bacardi Rum,Mug Dbl,50,350
+Rum August.csv,rum,Bacardi Rum,Mix,36,285
+Rum August.csv,rum,Bacardi Rum,DBL,3,24
+Rum August.csv,rum,Captain Morgan,Mix,47,329
+Rum August.csv,rum,Captain Morgan,DBL,16,128
+Rum August.csv,rum,Captain Morgan,Mug Dbl,1,7
+Rum August.csv,rum,Coconut Rum,Mix,42,294
+Rum August.csv,rum,Coconut Rum,RX,4,40
+Rum August.csv,rum,Coconut Rum,DBL,5,41.25
+Rum August.csv,rum,Meyers Dark,Mix,2,13
+Rum August.csv,rum,Well Rum,DBL,2,15
+Rum August.csv,rum,Well Rum,Mix,57,396.29
+Rum August.csv,rum,Total,,265,1922.54
+Whiskey August.csv,whiskey,Bulleit Rye,Mix,1,11
+Whiskey August.csv,whiskey,Bulleit Rye,Manhattan,3,60
+Whiskey August.csv,whiskey,Bulleit Rye,RX,2,34
+Whiskey August.csv,whiskey,Canadian Club,Manhattan,2,20
+Whiskey August.csv,whiskey,Canadian Club,RX,1,8.5
+Whiskey August.csv,whiskey,Crown Royal,Mix,20,200
+Whiskey August.csv,whiskey,Crown Royal,Manhattan,5,85
+Whiskey August.csv,whiskey,Crown Royal,Shot,2,18
+Whiskey August.csv,whiskey,Jack Daniels,DBL,30,270
+Whiskey August.csv,whiskey,Jack Daniels,Mix,62,496
+Whiskey August.csv,whiskey,Jack Daniels,Mug Dbl,31,251
+Whiskey August.csv,whiskey,Jack Daniels,RX,11,154
+Whiskey August.csv,whiskey,Jack Daniels,Shot,2,14
+Whiskey August.csv,whiskey,Jack Daniels,Manhattan,2,32
+Whiskey August.csv,whiskey,Jameson,Mix,18,198
+Whiskey August.csv,whiskey,Jameson,RX,12,192
+Whiskey August.csv,whiskey,Jameson,DBL,17,204
+Whiskey August.csv,whiskey,Jameson,Shot,15,135
+Whiskey August.csv,whiskey,Jameson,Manhattan,4,68
+Whiskey August.csv,whiskey,Jim Beam Black,RX,2,26
+Whiskey August.csv,whiskey,Jim Beam Black,Shot,15,120
+Whiskey August.csv,whiskey,Jim Beam Black,Mix,2,17
+Whiskey August.csv,whiskey,Jim Beam Black,Manhattan,3,48
+Whiskey August.csv,whiskey,Old Grandad,RX,1,11
+Whiskey August.csv,whiskey,Old Grandad,Mug Dbl,2,15
+Whiskey August.csv,whiskey,Seagrams 7,Mix,8,60
+Whiskey August.csv,whiskey,Seagrams 7,RX,1,9.5
+Whiskey August.csv,whiskey,Seagrams 7,DBL,1,8.5
+Whiskey August.csv,whiskey,Seagrams 7,Manhattan,2,22
+Whiskey August.csv,whiskey,Seagrams VO,RX,1,10.5
+Whiskey August.csv,whiskey,Seagrams VO,Manhattan,4,46
+Whiskey August.csv,whiskey,Seagrams VO,DBL,2,16
+Whiskey August.csv,whiskey,Skrewball,DBL,1,10
+Whiskey August.csv,whiskey,Well Whiskey,Mix,14,87.5
+Whiskey August.csv,whiskey,Well Whiskey,RX,3,25.5
+Whiskey August.csv,whiskey,Well Whiskey,Manhattan,5,45
+Whiskey August.csv,whiskey,Windsor,Mix,1,7
+Whiskey August.csv,whiskey,Total,,308,3035
